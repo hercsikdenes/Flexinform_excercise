@@ -1,4 +1,4 @@
-@baseUrl = http://localhost:42069
+@baseUrl = http://localhost:8080
 
 GET {{baseUrl}}/api/clients?page=1&per_page=2
 Accept: application/json

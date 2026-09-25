@@ -1,4 +1,4 @@
-@baseUrl = http://localhost:42069
+@baseUrl = http://localhost:8080
 
 GET {{baseUrl}}/health
 Accept: application/json
