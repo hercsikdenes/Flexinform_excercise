@@ -1,0 +1,3 @@
+GET {{baseUrl}}/api/clients?page=0
+Accept: application/json
+

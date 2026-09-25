@@ -1,0 +1,7058 @@
+[
+	{
+		"id": "1",
+		"client_id": "56450",
+		"type": "TGK",
+		"registered": "2016-08-08 08:50:19",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "2",
+		"client_id": "56450",
+		"type": "SZGK",
+		"registered": "2017-08-02 10:35:02",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "3",
+		"client_id": "56471",
+		"type": "TGK",
+		"registered": "2016-06-20 16:05:21",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "4",
+		"client_id": "56471",
+		"type": "SZGK",
+		"registered": "2017-06-15 16:27:05",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "5",
+		"client_id": "56478",
+		"type": "SZGK",
+		"registered": "2016-06-08 19:41:45",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "6",
+		"client_id": "56478",
+		"type": "SPORT",
+		"registered": "2016-06-08 19:58:55",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "7",
+		"client_id": "56499",
+		"type": "TGK",
+		"registered": "2016-08-12 08:03:28",
+		"ownbrand": "0",
+		"accident": "0"
+	},
+	{
+		"id": "8",
+		"client_id": "56499",
+		"type": "TGK",
+		"registered": "2017-08-15 16:23:54",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "9",
+		"client_id": "56499",
+		"type": "SPORT",
+		"registered": "2017-12-10 23:13:09",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "10",
+		"client_id": "56499",
+		"type": "SPORT",
+		"registered": "2018-08-12 14:23:46",
+		"ownbrand": "0",
+		"accident": "0"
+	},
+	{
+		"id": "11",
+		"client_id": "56499",
+		"type": "TGK",
+		"registered": "2018-08-12 14:24:05",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "12",
+		"client_id": "56506",
+		"type": "SZGK",
+		"registered": "2016-07-26 18:18:47",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "13",
+		"client_id": "56513",
+		"type": "TGK",
+		"registered": "2016-08-08 14:33:51",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "14",
+		"client_id": "56513",
+		"type": "SZGK",
+		"registered": "2017-07-25 10:56:36",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "15",
+		"client_id": "56520",
+		"type": "TGK",
+		"registered": "2016-08-02 16:42:46",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "16",
+		"client_id": "56527",
+		"type": "SZGK",
+		"registered": "2017-05-19 12:01:20",
+		"ownbrand": "0",
+		"accident": "0"
+	},
+	{
+		"id": "17",
+		"client_id": "56534",
+		"type": "TGK",
+		"registered": "2016-08-05 10:52:05",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "18",
+		"client_id": "56534",
+		"type": "SZGK",
+		"registered": "2017-08-07 11:15:19",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "19",
+		"client_id": "56548",
+		"type": "TGK",
+		"registered": "2016-08-04 09:44:39",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "20",
+		"client_id": "56548",
+		"type": "SZGK",
+		"registered": "2017-07-06 13:46:13",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "21",
+		"client_id": "56555",
+		"type": "TGK",
+		"registered": "2016-08-17 00:11:35",
+		"ownbrand": "1",
+		"accident": "1"
+	},
+	{
+		"id": "22",
+		"client_id": "56555",
+		"type": "SPORT",
+		"registered": "2017-08-14 14:21:38",
+		"ownbrand": "1",
+		"accident": "1"
+	},
+	{
+		"id": "23",
+		"client_id": "56555",
+		"type": "TGK",
+		"registered": "2017-08-14 14:43:58",
+		"ownbrand": "1",
+		"accident": "1"
+	},
+	{
+		"id": "24",
+		"client_id": "56555",
+		"type": "SZGK",
+		"registered": "2018-07-31 19:51:08",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "25",
+		"client_id": "56555",
+		"type": "SPORT",
+		"registered": "2018-08-21 10:10:03",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "26",
+		"client_id": "56562",
+		"type": "TGK",
+		"registered": "2016-08-09 16:06:54",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "27",
+		"client_id": "56562",
+		"type": "SZGK",
+		"registered": "2017-07-12 08:59:48",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "28",
+		"client_id": "56590",
+		"type": "TGK",
+		"registered": "2016-07-27 08:24:32",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "29",
+		"client_id": "56590",
+		"type": "SZGK",
+		"registered": "2017-07-25 16:13:57",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "30",
+		"client_id": "56597",
+		"type": "TGK",
+		"registered": "2016-07-27 15:48:25",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "31",
+		"client_id": "56597",
+		"type": "SZGK",
+		"registered": "2017-07-25 16:46:39",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "32",
+		"client_id": "56618",
+		"type": "TGK",
+		"registered": "2016-08-16 19:37:01",
+		"ownbrand": "0",
+		"accident": "0"
+	},
+	{
+		"id": "33",
+		"client_id": "56618",
+		"type": "SZGK",
+		"registered": "2017-08-15 17:51:20",
+		"ownbrand": "0",
+		"accident": "0"
+	},
+	{
+		"id": "34",
+		"client_id": "56625",
+		"type": "TGK",
+		"registered": "2016-08-02 09:05:49",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "35",
+		"client_id": "56625",
+		"type": "SZGK",
+		"registered": "2017-06-27 13:01:44",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "36",
+		"client_id": "56632",
+		"type": "TGK",
+		"registered": "2016-08-14 21:20:07",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "37",
+		"client_id": "56639",
+		"type": "TGK",
+		"registered": "2016-07-13 10:24:03",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "38",
+		"client_id": "56639",
+		"type": "SZGK",
+		"registered": "2017-07-26 14:27:21",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "39",
+		"client_id": "56660",
+		"type": "TGK",
+		"registered": "2016-08-07 14:06:52",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "40",
+		"client_id": "56660",
+		"type": "SZGK",
+		"registered": "2017-07-19 16:22:34",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "41",
+		"client_id": "56674",
+		"type": "TGK",
+		"registered": "2016-07-28 11:09:12",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "42",
+		"client_id": "56674",
+		"type": "SZGK",
+		"registered": "2017-08-12 17:40:36",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "43",
+		"client_id": "56681",
+		"type": "TGK",
+		"registered": "2016-07-14 05:44:01",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "44",
+		"client_id": "56681",
+		"type": "SPORT",
+		"registered": "2016-07-25 17:49:42",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "45",
+		"client_id": "56681",
+		"type": "SZGK",
+		"registered": "2017-01-19 12:03:09",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "46",
+		"client_id": "56681",
+		"type": "SPORT",
+		"registered": "2017-01-25 01:11:10",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "47",
+		"client_id": "56688",
+		"type": "SZGK",
+		"registered": "2016-07-20 12:17:10",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "48",
+		"client_id": "56723",
+		"type": "TGK",
+		"registered": "2016-08-07 22:45:07",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "49",
+		"client_id": "56723",
+		"type": "SZGK",
+		"registered": "2017-08-04 13:23:25",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "50",
+		"client_id": "56730",
+		"type": "SZGK",
+		"registered": "2016-07-16 15:41:55",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "51",
+		"client_id": "56744",
+		"type": "SZGK",
+		"registered": "2016-08-15 10:57:56",
+		"ownbrand": "0",
+		"accident": "0"
+	},
+	{
+		"id": "52",
+		"client_id": "56751",
+		"type": "SZGK",
+		"registered": "2016-06-30 14:27:10",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "53",
+		"client_id": "56758",
+		"type": "SZGK",
+		"registered": "2016-07-21 09:58:15",
+		"ownbrand": "0",
+		"accident": "0"
+	},
+	{
+		"id": "54",
+		"client_id": "56772",
+		"type": "TGK",
+		"registered": "2016-07-25 16:47:58",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "55",
+		"client_id": "56772",
+		"type": "SZGK",
+		"registered": "2017-07-03 11:19:13",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "56",
+		"client_id": "56779",
+		"type": "SZGK",
+		"registered": "2016-06-14 09:04:34",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "57",
+		"client_id": "56793",
+		"type": "SZGK",
+		"registered": "2016-07-28 15:09:10",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "58",
+		"client_id": "56800",
+		"type": "TGK",
+		"registered": "2016-07-24 12:46:06",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "59",
+		"client_id": "56800",
+		"type": "SZGK",
+		"registered": "2017-08-14 19:16:01",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "60",
+		"client_id": "56807",
+		"type": "TGK",
+		"registered": "2016-07-18 09:10:48",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "61",
+		"client_id": "56807",
+		"type": "TGK",
+		"registered": "2017-08-03 12:49:23",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "62",
+		"client_id": "56807",
+		"type": "SPORT",
+		"registered": "2018-05-23 18:02:59",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "63",
+		"client_id": "56807",
+		"type": "TGK",
+		"registered": "2018-07-19 13:30:19",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "64",
+		"client_id": "56814",
+		"type": "TGK",
+		"registered": "2016-08-08 09:05:25",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "65",
+		"client_id": "56814",
+		"type": "SZGK",
+		"registered": "2017-07-11 09:40:18",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "66",
+		"client_id": "56821",
+		"type": "SZGK",
+		"registered": "2016-07-08 10:28:20",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "67",
+		"client_id": "56828",
+		"type": "TGK",
+		"registered": "2016-07-27 11:18:23",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "68",
+		"client_id": "56828",
+		"type": "SZGK",
+		"registered": "2017-02-08 17:22:39",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "69",
+		"client_id": "56835",
+		"type": "SZGK",
+		"registered": "2016-08-16 10:24:03",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "70",
+		"client_id": "56842",
+		"type": "TGK",
+		"registered": "2016-07-04 10:16:56",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "71",
+		"client_id": "56842",
+		"type": "TGK",
+		"registered": "2017-06-20 12:55:26",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "72",
+		"client_id": "56842",
+		"type": "SZGK",
+		"registered": "2018-06-27 10:04:34",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "73",
+		"client_id": "56849",
+		"type": "SZGK",
+		"registered": "2016-05-31 12:41:34",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "74",
+		"client_id": "56856",
+		"type": "SZGK",
+		"registered": "2016-07-28 21:52:30",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "75",
+		"client_id": "56863",
+		"type": "SZGK",
+		"registered": "2016-07-26 14:18:06",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "76",
+		"client_id": "56870",
+		"type": "TGK",
+		"registered": "2016-07-03 11:26:44",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "77",
+		"client_id": "56870",
+		"type": "SZGK",
+		"registered": "2017-07-12 14:49:54",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "78",
+		"client_id": "56877",
+		"type": "SZGK",
+		"registered": "2016-07-16 19:09:55",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "79",
+		"client_id": "56884",
+		"type": "SZGK",
+		"registered": "2016-07-07 19:12:31",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "80",
+		"client_id": "56898",
+		"type": "TGK",
+		"registered": "2016-07-20 11:57:57",
+		"ownbrand": "0",
+		"accident": "0"
+	},
+	{
+		"id": "81",
+		"client_id": "56898",
+		"type": "SZGK",
+		"registered": "2017-07-23 12:15:29",
+		"ownbrand": "0",
+		"accident": "0"
+	},
+	{
+		"id": "82",
+		"client_id": "56905",
+		"type": "TGK",
+		"registered": "2016-07-30 06:39:01",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "83",
+		"client_id": "56905",
+		"type": "SZGK",
+		"registered": "2017-07-25 08:07:30",
+		"ownbrand": "0",
+		"accident": "0"
+	},
+	{
+		"id": "84",
+		"client_id": "56912",
+		"type": "SZGK",
+		"registered": "2016-06-23 16:11:58",
+		"ownbrand": "1",
+		"accident": "1"
+	},
+	{
+		"id": "85",
+		"client_id": "56919",
+		"type": "SPORT",
+		"registered": "2016-05-29 20:07:55",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "86",
+		"client_id": "56919",
+		"type": "TGK",
+		"registered": "2016-07-15 23:40:05",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "87",
+		"client_id": "56919",
+		"type": "SPORT",
+		"registered": "2016-08-31 22:57:17",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "88",
+		"client_id": "56919",
+		"type": "SPORT",
+		"registered": "2017-02-28 00:22:04",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "89",
+		"client_id": "56919",
+		"type": "SZGK",
+		"registered": "2017-03-30 23:46:36",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "90",
+		"client_id": "56926",
+		"type": "TGK",
+		"registered": "2016-08-13 16:17:45",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "91",
+		"client_id": "56926",
+		"type": "SZGK",
+		"registered": "2017-07-29 11:29:24",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "92",
+		"client_id": "56933",
+		"type": "TGK",
+		"registered": "2016-07-23 10:41:08",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "93",
+		"client_id": "56933",
+		"type": "SZGK",
+		"registered": "2017-07-19 18:24:42",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "94",
+		"client_id": "56940",
+		"type": "TGK",
+		"registered": "2016-08-11 14:06:04",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "95",
+		"client_id": "56940",
+		"type": "TGK",
+		"registered": "2017-07-23 11:12:54",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "96",
+		"client_id": "56940",
+		"type": "TGK",
+		"registered": "2018-08-13 14:56:29",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "97",
+		"client_id": "56947",
+		"type": "TGK",
+		"registered": "2016-07-27 11:58:54",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "98",
+		"client_id": "56947",
+		"type": "SZGK",
+		"registered": "2017-06-20 14:41:19",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "99",
+		"client_id": "56961",
+		"type": "TGK",
+		"registered": "2016-07-27 16:22:26",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "100",
+		"client_id": "56961",
+		"type": "SZGK",
+		"registered": "2017-07-28 11:05:58",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "101",
+		"client_id": "56968",
+		"type": "TGK",
+		"registered": "2016-07-27 10:01:01",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "102",
+		"client_id": "56968",
+		"type": "SZGK",
+		"registered": "2017-08-03 22:02:23",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "103",
+		"client_id": "56996",
+		"type": "TGK",
+		"registered": "2016-07-22 08:50:54",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "104",
+		"client_id": "56996",
+		"type": "TGK",
+		"registered": "2017-07-31 08:38:19",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "105",
+		"client_id": "56996",
+		"type": "TGK",
+		"registered": "2018-07-19 13:06:05",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "106",
+		"client_id": "57017",
+		"type": "TGK",
+		"registered": "2016-08-11 20:37:09",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "107",
+		"client_id": "57017",
+		"type": "SZGK",
+		"registered": "2017-07-27 09:49:31",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "108",
+		"client_id": "57024",
+		"type": "TGK",
+		"registered": "2016-06-30 00:05:14",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "109",
+		"client_id": "57024",
+		"type": "SZGK",
+		"registered": "2017-07-27 10:28:34",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "110",
+		"client_id": "57038",
+		"type": "TGK",
+		"registered": "2016-06-30 10:48:07",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "111",
+		"client_id": "57038",
+		"type": "SZGK",
+		"registered": "2016-12-13 08:47:22",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "112",
+		"client_id": "57052",
+		"type": "TGK",
+		"registered": "2016-08-14 13:46:19",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "113",
+		"client_id": "57052",
+		"type": "SZGK",
+		"registered": "2017-01-09 11:50:54",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "114",
+		"client_id": "57059",
+		"type": "TGK",
+		"registered": "2016-07-05 19:13:48",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "115",
+		"client_id": "57073",
+		"type": "SZGK",
+		"registered": "2016-06-15 11:41:30",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "116",
+		"client_id": "57080",
+		"type": "TGK",
+		"registered": "2016-07-29 17:35:43",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "117",
+		"client_id": "57080",
+		"type": "SZGK",
+		"registered": "2017-07-21 13:55:08",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "118",
+		"client_id": "57087",
+		"type": "SZGK",
+		"registered": "2016-07-13 13:00:30",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "119",
+		"client_id": "57101",
+		"type": "TGK",
+		"registered": "2016-07-25 22:00:56",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "120",
+		"client_id": "57101",
+		"type": "SZGK",
+		"registered": "2017-06-26 15:46:05",
+		"ownbrand": "0",
+		"accident": "0"
+	},
+	{
+		"id": "121",
+		"client_id": "57115",
+		"type": "TGK",
+		"registered": "2016-07-24 21:03:21",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "122",
+		"client_id": "57115",
+		"type": "SZGK",
+		"registered": "2017-07-09 10:55:44",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "123",
+		"client_id": "57122",
+		"type": "SZGK",
+		"registered": "2016-05-31 18:32:40",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "124",
+		"client_id": "57129",
+		"type": "TGK",
+		"registered": "2016-08-15 20:13:18",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "125",
+		"client_id": "57129",
+		"type": "SZGK",
+		"registered": "2017-07-20 15:13:09",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "126",
+		"client_id": "57136",
+		"type": "SZGK",
+		"registered": "2016-07-22 19:01:47",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "127",
+		"client_id": "57143",
+		"type": "TGK",
+		"registered": "2016-07-11 14:59:34",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "128",
+		"client_id": "57143",
+		"type": "SZGK",
+		"registered": "2017-07-24 12:20:25",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "129",
+		"client_id": "57150",
+		"type": "SZGK",
+		"registered": "2016-07-28 18:02:45",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "130",
+		"client_id": "57171",
+		"type": "TGK",
+		"registered": "2016-08-15 13:47:34",
+		"ownbrand": "0",
+		"accident": "0"
+	},
+	{
+		"id": "131",
+		"client_id": "57171",
+		"type": "SZGK",
+		"registered": "2017-08-08 14:07:11",
+		"ownbrand": "0",
+		"accident": "0"
+	},
+	{
+		"id": "132",
+		"client_id": "57178",
+		"type": "SZGK",
+		"registered": "2016-07-26 12:49:34",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "133",
+		"client_id": "57185",
+		"type": "SZGK",
+		"registered": "2016-07-11 17:52:07",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "134",
+		"client_id": "57192",
+		"type": "TGK",
+		"registered": "2016-08-11 13:16:24",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "135",
+		"client_id": "57220",
+		"type": "TGK",
+		"registered": "2016-08-02 14:41:56",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "136",
+		"client_id": "57220",
+		"type": "SZGK",
+		"registered": "2017-08-09 22:28:35",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "137",
+		"client_id": "57241",
+		"type": "TGK",
+		"registered": "2016-07-11 14:22:32",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "138",
+		"client_id": "57241",
+		"type": "SZGK",
+		"registered": "2017-06-22 11:57:20",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "139",
+		"client_id": "57255",
+		"type": "TGK",
+		"registered": "2016-06-28 13:14:01",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "140",
+		"client_id": "57255",
+		"type": "SPORT",
+		"registered": "2017-01-05 09:11:46",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "141",
+		"client_id": "57255",
+		"type": "TGK",
+		"registered": "2017-07-27 09:59:29",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "142",
+		"client_id": "57255",
+		"type": "SPORT",
+		"registered": "2018-08-06 12:17:03",
+		"ownbrand": "0",
+		"accident": "0"
+	},
+	{
+		"id": "143",
+		"client_id": "57269",
+		"type": "SZGK",
+		"registered": "2016-07-04 09:24:01",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "144",
+		"client_id": "57276",
+		"type": "TGK",
+		"registered": "2016-07-13 17:12:28",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "145",
+		"client_id": "57276",
+		"type": "SZGK",
+		"registered": "2017-04-11 16:18:18",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "146",
+		"client_id": "57283",
+		"type": "TGK",
+		"registered": "2016-08-09 14:44:15",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "147",
+		"client_id": "57283",
+		"type": "SPORT",
+		"registered": "2016-11-10 12:54:34",
+		"ownbrand": "0",
+		"accident": "0"
+	},
+	{
+		"id": "148",
+		"client_id": "57283",
+		"type": "SZGK",
+		"registered": "2017-08-15 08:36:29",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "149",
+		"client_id": "57283",
+		"type": "SPORT",
+		"registered": "2017-08-15 08:40:46",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "150",
+		"client_id": "57290",
+		"type": "SZGK",
+		"registered": "2016-06-20 16:52:33",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "151",
+		"client_id": "57297",
+		"type": "TGK",
+		"registered": "2016-07-04 17:09:36",
+		"ownbrand": "0",
+		"accident": "1"
+	},
+	{
+		"id": "152",
+		"client_id": "57297",
+		"type": "SZGK",
+		"registered": "2017-08-14 15:15:47",
+		"ownbrand": "0",
+		"accident": "1"
+	},
+	{
+		"id": "153",
+		"client_id": "57304",
+		"type": "TGK",
+		"registered": "2016-08-12 22:26:10",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "154",
+		"client_id": "57318",
+		"type": "SZGK",
+		"registered": "2016-08-16 14:50:40",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "155",
+		"client_id": "57339",
+		"type": "TGK",
+		"registered": "2016-08-08 17:53:15",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "156",
+		"client_id": "57339",
+		"type": "SZGK",
+		"registered": "2017-08-11 16:21:24",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "157",
+		"client_id": "57353",
+		"type": "TGK",
+		"registered": "2016-07-31 17:06:38",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "158",
+		"client_id": "57353",
+		"type": "SZGK",
+		"registered": "2016-12-01 09:04:26",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "159",
+		"client_id": "57360",
+		"type": "SZGK",
+		"registered": "2016-07-19 12:16:06",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "160",
+		"client_id": "57367",
+		"type": "SZGK",
+		"registered": "2016-07-04 11:25:49",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "161",
+		"client_id": "57388",
+		"type": "TGK",
+		"registered": "2016-06-06 13:04:46",
+		"ownbrand": "0",
+		"accident": "0"
+	},
+	{
+		"id": "162",
+		"client_id": "57388",
+		"type": "SZGK",
+		"registered": "2017-05-30 10:18:12",
+		"ownbrand": "0",
+		"accident": "0"
+	},
+	{
+		"id": "163",
+		"client_id": "57409",
+		"type": "TGK",
+		"registered": "2016-08-16 14:35:43",
+		"ownbrand": "0",
+		"accident": "0"
+	},
+	{
+		"id": "164",
+		"client_id": "57409",
+		"type": "SZGK",
+		"registered": "2017-08-15 18:40:31",
+		"ownbrand": "0",
+		"accident": "0"
+	},
+	{
+		"id": "165",
+		"client_id": "57423",
+		"type": "TGK",
+		"registered": "2016-06-09 07:49:47",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "166",
+		"client_id": "57423",
+		"type": "SZGK",
+		"registered": "2017-08-14 08:48:51",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "167",
+		"client_id": "57430",
+		"type": "SZGK",
+		"registered": "2017-02-09 10:58:25",
+		"ownbrand": "1",
+		"accident": "1"
+	},
+	{
+		"id": "168",
+		"client_id": "57437",
+		"type": "SZGK",
+		"registered": "2016-07-21 17:36:21",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "169",
+		"client_id": "57437",
+		"type": "SPORT",
+		"registered": "2016-08-01 10:53:45",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "170",
+		"client_id": "57444",
+		"type": "SZGK",
+		"registered": "2016-07-12 08:30:08",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "171",
+		"client_id": "57458",
+		"type": "TGK",
+		"registered": "2016-07-11 18:42:03",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "172",
+		"client_id": "57458",
+		"type": "SZGK",
+		"registered": "2017-05-28 10:57:53",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "173",
+		"client_id": "57465",
+		"type": "TGK",
+		"registered": "2016-07-26 09:51:02",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "174",
+		"client_id": "57465",
+		"type": "SZGK",
+		"registered": "2017-08-12 09:00:25",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "175",
+		"client_id": "57472",
+		"type": "TGK",
+		"registered": "2016-07-26 15:53:25",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "176",
+		"client_id": "57472",
+		"type": "SZGK",
+		"registered": "2017-08-11 14:28:31",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "177",
+		"client_id": "57479",
+		"type": "SZGK",
+		"registered": "2016-06-27 14:06:26",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "178",
+		"client_id": "57486",
+		"type": "SZGK",
+		"registered": "2016-07-25 08:19:24",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "179",
+		"client_id": "57500",
+		"type": "TGK",
+		"registered": "2016-07-26 10:52:45",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "180",
+		"client_id": "57507",
+		"type": "TGK",
+		"registered": "2016-07-25 09:50:57",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "181",
+		"client_id": "57507",
+		"type": "SZGK",
+		"registered": "2017-06-26 08:33:46",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "182",
+		"client_id": "57514",
+		"type": "SPORT",
+		"registered": "2016-07-14 15:05:55",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "183",
+		"client_id": "57514",
+		"type": "TGK",
+		"registered": "2016-08-04 09:18:23",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "184",
+		"client_id": "57514",
+		"type": "SPORT",
+		"registered": "2016-09-14 15:31:34",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "185",
+		"client_id": "57514",
+		"type": "SPORT",
+		"registered": "2017-05-08 13:09:16",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "186",
+		"client_id": "57514",
+		"type": "TGK",
+		"registered": "2017-07-20 10:30:14",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "187",
+		"client_id": "57514",
+		"type": "SPORT",
+		"registered": "2017-08-08 13:13:51",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "188",
+		"client_id": "57521",
+		"type": "TGK",
+		"registered": "2016-08-16 01:34:53",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "189",
+		"client_id": "57521",
+		"type": "SZGK",
+		"registered": "2017-08-15 00:01:17",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "190",
+		"client_id": "57535",
+		"type": "SZGK",
+		"registered": "2016-07-27 11:26:33",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "191",
+		"client_id": "57542",
+		"type": "SZGK",
+		"registered": "2016-07-03 14:39:39",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "192",
+		"client_id": "57556",
+		"type": "TGK",
+		"registered": "2016-06-15 11:20:10",
+		"ownbrand": "0",
+		"accident": "0"
+	},
+	{
+		"id": "193",
+		"client_id": "57556",
+		"type": "SZGK",
+		"registered": "2016-12-30 13:17:58",
+		"ownbrand": "0",
+		"accident": "0"
+	},
+	{
+		"id": "194",
+		"client_id": "57584",
+		"type": "TGK",
+		"registered": "2016-07-14 13:08:51",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "195",
+		"client_id": "57584",
+		"type": "TGK",
+		"registered": "2017-08-14 17:02:44",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "196",
+		"client_id": "57584",
+		"type": "TGK",
+		"registered": "2018-08-13 11:13:11",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "197",
+		"client_id": "57584",
+		"type": "SPORT",
+		"registered": "2018-09-05 13:07:06",
+		"ownbrand": "0",
+		"accident": "0"
+	},
+	{
+		"id": "198",
+		"client_id": "57591",
+		"type": "SZGK",
+		"registered": "2016-08-05 11:30:47",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "199",
+		"client_id": "57598",
+		"type": "TGK",
+		"registered": "2016-06-26 14:55:47",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "200",
+		"client_id": "57598",
+		"type": "SZGK",
+		"registered": "2017-02-15 11:50:24",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "201",
+		"client_id": "57605",
+		"type": "SZGK",
+		"registered": "2016-06-24 13:15:41",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "202",
+		"client_id": "57612",
+		"type": "TGK",
+		"registered": "2016-08-13 14:15:41",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "203",
+		"client_id": "57612",
+		"type": "SZGK",
+		"registered": "2017-07-12 10:46:23",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "204",
+		"client_id": "57626",
+		"type": "TGK",
+		"registered": "2016-07-04 07:07:19",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "205",
+		"client_id": "57626",
+		"type": "TGK",
+		"registered": "2017-05-12 18:21:24",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "206",
+		"client_id": "57626",
+		"type": "TGK",
+		"registered": "2018-08-14 17:38:58",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "207",
+		"client_id": "57633",
+		"type": "TGK",
+		"registered": "2016-07-27 10:53:06",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "208",
+		"client_id": "57633",
+		"type": "TGK",
+		"registered": "2017-07-25 10:39:00",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "209",
+		"client_id": "57633",
+		"type": "SPORT",
+		"registered": "2017-10-04 09:36:06",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "210",
+		"client_id": "57633",
+		"type": "SPORT",
+		"registered": "2018-06-08 12:02:33",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "211",
+		"client_id": "57633",
+		"type": "SZGK",
+		"registered": "2018-08-27 11:20:03",
+		"ownbrand": "0",
+		"accident": "0"
+	},
+	{
+		"id": "212",
+		"client_id": "57640",
+		"type": "SZGK",
+		"registered": "2016-07-07 10:19:49",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "213",
+		"client_id": "57647",
+		"type": "TGK",
+		"registered": "2016-08-11 13:01:30",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "214",
+		"client_id": "57661",
+		"type": "SZGK",
+		"registered": "2016-06-26 09:38:38",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "215",
+		"client_id": "57675",
+		"type": "TGK",
+		"registered": "2016-07-22 20:51:49",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "216",
+		"client_id": "57682",
+		"type": "TGK",
+		"registered": "2016-07-14 19:59:09",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "217",
+		"client_id": "57682",
+		"type": "SZGK",
+		"registered": "2017-07-15 09:08:06",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "218",
+		"client_id": "57689",
+		"type": "SZGK",
+		"registered": "2016-08-05 12:31:07",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "219",
+		"client_id": "57696",
+		"type": "SZGK",
+		"registered": "2016-07-05 13:55:48",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "220",
+		"client_id": "57724",
+		"type": "TGK",
+		"registered": "2016-07-21 08:19:54",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "221",
+		"client_id": "57724",
+		"type": "SPORT",
+		"registered": "2017-12-06 16:49:40",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "222",
+		"client_id": "57724",
+		"type": "SZGK",
+		"registered": "2018-08-29 15:03:41",
+		"ownbrand": "0",
+		"accident": "0"
+	},
+	{
+		"id": "223",
+		"client_id": "57731",
+		"type": "TGK",
+		"registered": "2016-08-11 18:54:32",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "224",
+		"client_id": "57731",
+		"type": "SZGK",
+		"registered": "2017-07-14 15:46:12",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "225",
+		"client_id": "57738",
+		"type": "TGK",
+		"registered": "2016-08-10 19:18:50",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "226",
+		"client_id": "57738",
+		"type": "SZGK",
+		"registered": "2017-07-22 13:18:52",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "227",
+		"client_id": "57745",
+		"type": "TGK",
+		"registered": "2016-08-16 09:40:49",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "228",
+		"client_id": "57745",
+		"type": "SZGK",
+		"registered": "2017-08-03 14:29:27",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "229",
+		"client_id": "57759",
+		"type": "TGK",
+		"registered": "2016-08-01 10:36:28",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "230",
+		"client_id": "57759",
+		"type": "SZGK",
+		"registered": "2017-07-07 01:13:20",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "231",
+		"client_id": "57766",
+		"type": "SZGK",
+		"registered": "2016-07-06 15:35:29",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "232",
+		"client_id": "57780",
+		"type": "SZGK",
+		"registered": "2016-07-28 09:42:52",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "233",
+		"client_id": "57787",
+		"type": "TGK",
+		"registered": "2016-07-20 14:41:01",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "234",
+		"client_id": "57787",
+		"type": "SZGK",
+		"registered": "2017-06-21 14:11:56",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "235",
+		"client_id": "57801",
+		"type": "SZGK",
+		"registered": "2016-07-22 12:42:14",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "236",
+		"client_id": "57808",
+		"type": "TGK",
+		"registered": "2016-08-16 15:13:11",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "237",
+		"client_id": "57808",
+		"type": "SZGK",
+		"registered": "2017-07-18 13:46:42",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "238",
+		"client_id": "57815",
+		"type": "TGK",
+		"registered": "2016-07-29 13:13:11",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "239",
+		"client_id": "57815",
+		"type": "SZGK",
+		"registered": "2017-02-03 11:21:22",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "240",
+		"client_id": "57822",
+		"type": "SPORT",
+		"registered": "2016-06-09 15:58:55",
+		"ownbrand": "1",
+		"accident": "2"
+	},
+	{
+		"id": "241",
+		"client_id": "57822",
+		"type": "TGK",
+		"registered": "2016-08-15 17:40:06",
+		"ownbrand": "1",
+		"accident": "2"
+	},
+	{
+		"id": "242",
+		"client_id": "57822",
+		"type": "SPORT",
+		"registered": "2016-09-15 09:52:13",
+		"ownbrand": "1",
+		"accident": "2"
+	},
+	{
+		"id": "243",
+		"client_id": "57822",
+		"type": "SZGK",
+		"registered": "2017-08-11 19:07:39",
+		"ownbrand": "1",
+		"accident": "2"
+	},
+	{
+		"id": "244",
+		"client_id": "57836",
+		"type": "TGK",
+		"registered": "2016-07-11 14:16:21",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "245",
+		"client_id": "57836",
+		"type": "SZGK",
+		"registered": "2017-07-28 10:23:17",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "246",
+		"client_id": "57878",
+		"type": "TGK",
+		"registered": "2016-06-14 13:41:22",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "247",
+		"client_id": "57899",
+		"type": "TGK",
+		"registered": "2016-07-29 10:51:46",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "248",
+		"client_id": "57899",
+		"type": "SZGK",
+		"registered": "2017-08-10 15:02:23",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "249",
+		"client_id": "57913",
+		"type": "TGK",
+		"registered": "2016-07-27 13:02:38",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "250",
+		"client_id": "57913",
+		"type": "SZGK",
+		"registered": "2017-05-22 11:28:21",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "251",
+		"client_id": "57927",
+		"type": "TGK",
+		"registered": "2016-07-17 10:15:52",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "252",
+		"client_id": "57927",
+		"type": "SZGK",
+		"registered": "2017-07-19 16:40:47",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "253",
+		"client_id": "57941",
+		"type": "TGK",
+		"registered": "2016-08-08 16:48:30",
+		"ownbrand": "0",
+		"accident": "0"
+	},
+	{
+		"id": "254",
+		"client_id": "57955",
+		"type": "TGK",
+		"registered": "2016-10-17 17:09:35",
+		"ownbrand": "1",
+		"accident": "1"
+	},
+	{
+		"id": "255",
+		"client_id": "57955",
+		"type": "SZGK",
+		"registered": "2017-08-07 10:00:47",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "256",
+		"client_id": "57962",
+		"type": "SPORT",
+		"registered": "2016-08-03 12:13:11",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "257",
+		"client_id": "57962",
+		"type": "TGK",
+		"registered": "2016-08-03 12:13:27",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "258",
+		"client_id": "57969",
+		"type": "TGK",
+		"registered": "2016-07-27 14:43:47",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "259",
+		"client_id": "57969",
+		"type": "SZGK",
+		"registered": "2017-07-26 10:15:06",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "260",
+		"client_id": "57976",
+		"type": "TGK",
+		"registered": "2016-06-29 09:46:31",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "261",
+		"client_id": "57976",
+		"type": "SZGK",
+		"registered": "2017-06-20 10:37:01",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "262",
+		"client_id": "57990",
+		"type": "TGK",
+		"registered": "2016-08-01 12:04:32",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "263",
+		"client_id": "57990",
+		"type": "SZGK",
+		"registered": "2017-09-14 19:04:46",
+		"ownbrand": "0",
+		"accident": "0"
+	},
+	{
+		"id": "264",
+		"client_id": "58011",
+		"type": "TGK",
+		"registered": "2016-08-08 20:26:29",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "265",
+		"client_id": "58011",
+		"type": "SZGK",
+		"registered": "2017-08-15 10:40:29",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "266",
+		"client_id": "58032",
+		"type": "TGK",
+		"registered": "2016-08-08 15:48:27",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "267",
+		"client_id": "58032",
+		"type": "TGK",
+		"registered": "2017-08-15 15:43:58",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "268",
+		"client_id": "58032",
+		"type": "SPORT",
+		"registered": "2017-08-15 17:43:42",
+		"ownbrand": "0",
+		"accident": "0"
+	},
+	{
+		"id": "269",
+		"client_id": "58032",
+		"type": "TGK",
+		"registered": "2018-08-14 20:46:59",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "270",
+		"client_id": "58067",
+		"type": "SZGK",
+		"registered": "2016-07-27 17:46:07",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "271",
+		"client_id": "58074",
+		"type": "TGK",
+		"registered": "2016-07-15 14:06:56",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "272",
+		"client_id": "58074",
+		"type": "SZGK",
+		"registered": "2016-12-12 15:10:10",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "273",
+		"client_id": "58081",
+		"type": "TGK",
+		"registered": "2016-08-10 07:57:24",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "274",
+		"client_id": "58081",
+		"type": "TGK",
+		"registered": "2017-07-14 14:12:55",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "275",
+		"client_id": "58081",
+		"type": "TGK",
+		"registered": "2018-07-30 11:05:34",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "276",
+		"client_id": "58102",
+		"type": "TGK",
+		"registered": "2016-06-16 17:47:04",
+		"ownbrand": "1",
+		"accident": "1"
+	},
+	{
+		"id": "277",
+		"client_id": "58102",
+		"type": "SZGK",
+		"registered": "2016-09-17 09:07:09",
+		"ownbrand": "1",
+		"accident": "1"
+	},
+	{
+		"id": "278",
+		"client_id": "58109",
+		"type": "SZGK",
+		"registered": "2016-05-26 17:01:01",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "279",
+		"client_id": "58144",
+		"type": "TGK",
+		"registered": "2016-07-12 14:51:43",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "280",
+		"client_id": "58151",
+		"type": "TGK",
+		"registered": "2016-08-04 11:46:53",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "281",
+		"client_id": "58151",
+		"type": "SZGK",
+		"registered": "2017-07-27 14:41:00",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "282",
+		"client_id": "58158",
+		"type": "TGK",
+		"registered": "2016-07-26 18:42:32",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "283",
+		"client_id": "58158",
+		"type": "TGK",
+		"registered": "2017-08-14 15:04:06",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "284",
+		"client_id": "58158",
+		"type": "SZGK",
+		"registered": "2018-07-28 14:09:41",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "285",
+		"client_id": "58165",
+		"type": "SZGK",
+		"registered": "2016-07-27 13:27:32",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "286",
+		"client_id": "58172",
+		"type": "SZGK",
+		"registered": "2016-07-13 11:02:08",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "287",
+		"client_id": "58179",
+		"type": "TGK",
+		"registered": "2016-08-11 12:16:02",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "288",
+		"client_id": "58186",
+		"type": "SZGK",
+		"registered": "2016-07-09 16:21:58",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "289",
+		"client_id": "58193",
+		"type": "TGK",
+		"registered": "2016-08-15 11:08:10",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "290",
+		"client_id": "58193",
+		"type": "SZGK",
+		"registered": "2017-06-07 12:18:55",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "291",
+		"client_id": "58214",
+		"type": "TGK",
+		"registered": "2016-07-21 10:54:07",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "292",
+		"client_id": "58214",
+		"type": "TGK",
+		"registered": "2017-07-27 15:29:09",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "293",
+		"client_id": "58214",
+		"type": "TGK",
+		"registered": "2018-07-16 15:43:02",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "294",
+		"client_id": "58228",
+		"type": "SZGK",
+		"registered": "2016-08-13 19:26:58",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "295",
+		"client_id": "58235",
+		"type": "TGK",
+		"registered": "2016-08-15 10:39:49",
+		"ownbrand": "0",
+		"accident": "0"
+	},
+	{
+		"id": "296",
+		"client_id": "58242",
+		"type": "SZGK",
+		"registered": "2016-07-26 17:09:51",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "297",
+		"client_id": "58249",
+		"type": "TGK",
+		"registered": "2016-07-13 14:44:32",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "298",
+		"client_id": "58249",
+		"type": "SZGK",
+		"registered": "2017-07-15 23:26:33",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "299",
+		"client_id": "58284",
+		"type": "SZGK",
+		"registered": "2016-07-25 21:55:38",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "300",
+		"client_id": "58291",
+		"type": "TGK",
+		"registered": "2016-06-20 09:40:45",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "301",
+		"client_id": "58291",
+		"type": "SZGK",
+		"registered": "2017-06-23 17:46:54",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "302",
+		"client_id": "58305",
+		"type": "TGK",
+		"registered": "2016-07-04 11:07:04",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "303",
+		"client_id": "58319",
+		"type": "TGK",
+		"registered": "2016-07-24 12:22:02",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "304",
+		"client_id": "58319",
+		"type": "SZGK",
+		"registered": "2017-07-28 17:13:24",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "305",
+		"client_id": "58326",
+		"type": "SZGK",
+		"registered": "2016-07-20 10:58:58",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "306",
+		"client_id": "58340",
+		"type": "SZGK",
+		"registered": "2016-07-29 12:00:36",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "307",
+		"client_id": "58347",
+		"type": "TGK",
+		"registered": "2016-08-05 14:42:21",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "308",
+		"client_id": "58354",
+		"type": "TGK",
+		"registered": "2016-08-15 05:24:41",
+		"ownbrand": "0",
+		"accident": "0"
+	},
+	{
+		"id": "309",
+		"client_id": "58354",
+		"type": "SZGK",
+		"registered": "2017-06-20 20:30:59",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "310",
+		"client_id": "58361",
+		"type": "SZGK",
+		"registered": "2016-07-27 13:50:29",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "311",
+		"client_id": "58368",
+		"type": "TGK",
+		"registered": "2016-07-21 09:24:49",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "312",
+		"client_id": "58368",
+		"type": "SZGK",
+		"registered": "2017-06-27 11:42:35",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "313",
+		"client_id": "58382",
+		"type": "SZGK",
+		"registered": "2016-06-09 14:15:14",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "314",
+		"client_id": "58389",
+		"type": "TGK",
+		"registered": "2016-08-15 23:44:51",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "315",
+		"client_id": "58389",
+		"type": "SZGK",
+		"registered": "2017-08-10 23:02:43",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "316",
+		"client_id": "58396",
+		"type": "SZGK",
+		"registered": "2016-06-23 13:14:10",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "317",
+		"client_id": "58403",
+		"type": "SZGK",
+		"registered": "2016-06-15 09:59:54",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "318",
+		"client_id": "58410",
+		"type": "SZGK",
+		"registered": "2016-08-16 17:49:06",
+		"ownbrand": "0",
+		"accident": "0"
+	},
+	{
+		"id": "319",
+		"client_id": "58417",
+		"type": "TGK",
+		"registered": "2016-08-11 16:11:39",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "320",
+		"client_id": "58417",
+		"type": "SZGK",
+		"registered": "2017-07-22 12:04:17",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "321",
+		"client_id": "58424",
+		"type": "TGK",
+		"registered": "2016-07-13 13:25:55",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "322",
+		"client_id": "58424",
+		"type": "SZGK",
+		"registered": "2017-01-10 11:32:21",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "323",
+		"client_id": "58438",
+		"type": "TGK",
+		"registered": "2016-08-14 19:11:19",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "324",
+		"client_id": "58438",
+		"type": "SZGK",
+		"registered": "2017-08-12 12:03:02",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "325",
+		"client_id": "58445",
+		"type": "SZGK",
+		"registered": "2016-07-27 11:25:48",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "326",
+		"client_id": "58473",
+		"type": "TGK",
+		"registered": "2016-07-07 15:26:16",
+		"ownbrand": "1",
+		"accident": "1"
+	},
+	{
+		"id": "327",
+		"client_id": "58473",
+		"type": "SZGK",
+		"registered": "2017-03-17 08:47:43",
+		"ownbrand": "1",
+		"accident": "1"
+	},
+	{
+		"id": "328",
+		"client_id": "58480",
+		"type": "SZGK",
+		"registered": "2016-08-04 15:51:51",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "329",
+		"client_id": "58501",
+		"type": "SZGK",
+		"registered": "2016-06-02 07:37:33",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "330",
+		"client_id": "58508",
+		"type": "TGK",
+		"registered": "2016-07-06 13:00:27",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "331",
+		"client_id": "58508",
+		"type": "SZGK",
+		"registered": "2016-09-21 08:54:55",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "332",
+		"client_id": "58522",
+		"type": "TGK",
+		"registered": "2016-07-17 11:09:10",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "333",
+		"client_id": "58522",
+		"type": "SZGK",
+		"registered": "2017-08-12 13:13:20",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "334",
+		"client_id": "58529",
+		"type": "SZGK",
+		"registered": "2016-07-21 15:06:23",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "335",
+		"client_id": "58543",
+		"type": "TGK",
+		"registered": "2016-07-25 14:10:39",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "336",
+		"client_id": "58550",
+		"type": "TGK",
+		"registered": "2016-07-27 10:30:13",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "337",
+		"client_id": "58564",
+		"type": "TGK",
+		"registered": "2016-07-20 07:48:38",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "338",
+		"client_id": "58564",
+		"type": "SZGK",
+		"registered": "2017-07-11 16:28:28",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "339",
+		"client_id": "58571",
+		"type": "TGK",
+		"registered": "2016-08-11 16:53:17",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "340",
+		"client_id": "58571",
+		"type": "SZGK",
+		"registered": "2017-08-14 20:15:05",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "341",
+		"client_id": "58578",
+		"type": "SZGK",
+		"registered": "2016-07-04 20:02:46",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "342",
+		"client_id": "58585",
+		"type": "TGK",
+		"registered": "2016-05-27 19:32:24",
+		"ownbrand": "1",
+		"accident": "1"
+	},
+	{
+		"id": "343",
+		"client_id": "58585",
+		"type": "SZGK",
+		"registered": "2017-04-07 15:14:51",
+		"ownbrand": "1",
+		"accident": "1"
+	},
+	{
+		"id": "344",
+		"client_id": "58592",
+		"type": "SZGK",
+		"registered": "2016-07-20 13:12:03",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "345",
+		"client_id": "58599",
+		"type": "TGK",
+		"registered": "2016-07-27 10:21:18",
+		"ownbrand": "0",
+		"accident": "0"
+	},
+	{
+		"id": "346",
+		"client_id": "58599",
+		"type": "SZGK",
+		"registered": "2017-06-30 12:08:34",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "347",
+		"client_id": "58606",
+		"type": "SZGK",
+		"registered": "2016-08-16 07:50:50",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "348",
+		"client_id": "58620",
+		"type": "SZGK",
+		"registered": "2016-06-13 09:54:07",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "349",
+		"client_id": "58634",
+		"type": "TGK",
+		"registered": "2016-08-05 09:19:32",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "350",
+		"client_id": "58634",
+		"type": "TGK",
+		"registered": "2017-08-01 15:49:44",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "351",
+		"client_id": "58634",
+		"type": "SZGK",
+		"registered": "2018-08-09 18:00:44",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "352",
+		"client_id": "58641",
+		"type": "TGK",
+		"registered": "2016-07-28 08:53:13",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "353",
+		"client_id": "58641",
+		"type": "SZGK",
+		"registered": "2017-08-04 14:50:13",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "354",
+		"client_id": "58655",
+		"type": "TGK",
+		"registered": "2016-08-14 09:57:03",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "355",
+		"client_id": "58662",
+		"type": "SZGK",
+		"registered": "2016-06-20 17:03:57",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "356",
+		"client_id": "58683",
+		"type": "TGK",
+		"registered": "2016-07-14 13:27:09",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "357",
+		"client_id": "58683",
+		"type": "SZGK",
+		"registered": "2017-08-09 16:27:34",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "358",
+		"client_id": "58690",
+		"type": "TGK",
+		"registered": "2016-08-03 14:56:45",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "359",
+		"client_id": "58690",
+		"type": "SZGK",
+		"registered": "2017-07-17 12:08:46",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "360",
+		"client_id": "58732",
+		"type": "TGK",
+		"registered": "2016-07-27 11:59:16",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "361",
+		"client_id": "58732",
+		"type": "SZGK",
+		"registered": "2017-08-02 14:26:45",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "362",
+		"client_id": "58746",
+		"type": "TGK",
+		"registered": "2016-08-02 10:39:35",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "363",
+		"client_id": "58746",
+		"type": "SZGK",
+		"registered": "2017-08-15 21:08:20",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "364",
+		"client_id": "58809",
+		"type": "TGK",
+		"registered": "2016-08-01 12:20:49",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "365",
+		"client_id": "58809",
+		"type": "SZGK",
+		"registered": "2017-07-18 13:39:25",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "366",
+		"client_id": "58816",
+		"type": "SZGK",
+		"registered": "2016-07-15 13:15:50",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "367",
+		"client_id": "58837",
+		"type": "SZGK",
+		"registered": "2016-08-10 01:30:44",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "368",
+		"client_id": "58858",
+		"type": "TGK",
+		"registered": "2016-06-24 17:08:27",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "369",
+		"client_id": "58858",
+		"type": "SZGK",
+		"registered": "2017-02-01 17:43:38",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "370",
+		"client_id": "58865",
+		"type": "TGK",
+		"registered": "2016-07-24 22:59:40",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "371",
+		"client_id": "58865",
+		"type": "SZGK",
+		"registered": "2017-08-01 14:39:27",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "372",
+		"client_id": "58872",
+		"type": "TGK",
+		"registered": "2016-08-24 11:28:37",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "373",
+		"client_id": "58879",
+		"type": "TGK",
+		"registered": "2016-09-02 07:38:31",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "374",
+		"client_id": "58879",
+		"type": "SZGK",
+		"registered": "2017-06-27 08:48:23",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "375",
+		"client_id": "58886",
+		"type": "TGK",
+		"registered": "2016-07-24 09:18:00",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "376",
+		"client_id": "58886",
+		"type": "SPORT",
+		"registered": "2016-09-20 21:59:45",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "377",
+		"client_id": "58886",
+		"type": "SPORT",
+		"registered": "2016-11-24 20:18:15",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "378",
+		"client_id": "58886",
+		"type": "SPORT",
+		"registered": "2017-04-24 20:29:13",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "379",
+		"client_id": "58886",
+		"type": "SZGK",
+		"registered": "2017-07-17 13:50:18",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "380",
+		"client_id": "58893",
+		"type": "TGK",
+		"registered": "2016-08-16 23:43:21",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "381",
+		"client_id": "58900",
+		"type": "TGK",
+		"registered": "2016-07-28 12:58:21",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "382",
+		"client_id": "58900",
+		"type": "SZGK",
+		"registered": "2017-07-25 22:06:08",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "383",
+		"client_id": "58907",
+		"type": "TGK",
+		"registered": "2016-06-17 11:45:41",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "384",
+		"client_id": "58907",
+		"type": "SZGK",
+		"registered": "2017-08-01 10:51:51",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "385",
+		"client_id": "58914",
+		"type": "SZGK",
+		"registered": "2016-07-28 19:12:00",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "386",
+		"client_id": "58921",
+		"type": "TGK",
+		"registered": "2016-07-21 14:20:52",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "387",
+		"client_id": "58921",
+		"type": "SZGK",
+		"registered": "2017-07-28 15:03:34",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "388",
+		"client_id": "58935",
+		"type": "SZGK",
+		"registered": "2016-07-22 08:35:31",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "389",
+		"client_id": "58949",
+		"type": "SZGK",
+		"registered": "2017-05-19 11:27:03",
+		"ownbrand": "0",
+		"accident": "0"
+	},
+	{
+		"id": "390",
+		"client_id": "58963",
+		"type": "TGK",
+		"registered": "2016-08-07 16:24:23",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "391",
+		"client_id": "58963",
+		"type": "SZGK",
+		"registered": "2017-08-12 22:42:08",
+		"ownbrand": "0",
+		"accident": "0"
+	},
+	{
+		"id": "392",
+		"client_id": "58984",
+		"type": "SZGK",
+		"registered": "2016-07-25 16:36:39",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "393",
+		"client_id": "58998",
+		"type": "TGK",
+		"registered": "2016-06-09 13:09:16",
+		"ownbrand": "1",
+		"accident": "1"
+	},
+	{
+		"id": "394",
+		"client_id": "58998",
+		"type": "SZGK",
+		"registered": "2017-08-15 09:24:34",
+		"ownbrand": "1",
+		"accident": "1"
+	},
+	{
+		"id": "395",
+		"client_id": "59005",
+		"type": "TGK",
+		"registered": "2016-08-10 12:21:50",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "396",
+		"client_id": "59005",
+		"type": "SZGK",
+		"registered": "2017-07-28 09:43:07",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "397",
+		"client_id": "59012",
+		"type": "TGK",
+		"registered": "2016-09-16 12:33:33",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "398",
+		"client_id": "59012",
+		"type": "SPORT",
+		"registered": "2017-02-07 14:48:40",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "399",
+		"client_id": "59012",
+		"type": "SPORT",
+		"registered": "2017-03-31 11:45:19",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "400",
+		"client_id": "59012",
+		"type": "SPORT",
+		"registered": "2017-07-13 15:17:28",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "401",
+		"client_id": "59012",
+		"type": "TGK",
+		"registered": "2017-07-18 14:29:09",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "402",
+		"client_id": "59012",
+		"type": "SPORT",
+		"registered": "2017-10-24 09:26:09",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "403",
+		"client_id": "59012",
+		"type": "SPORT",
+		"registered": "2017-12-21 10:06:18",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "404",
+		"client_id": "59012",
+		"type": "SPORT",
+		"registered": "2018-04-30 19:30:10",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "405",
+		"client_id": "59012",
+		"type": "SPORT",
+		"registered": "2018-06-25 12:39:17",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "406",
+		"client_id": "59012",
+		"type": "SZGK",
+		"registered": "2018-06-28 11:07:20",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "407",
+		"client_id": "59012",
+		"type": "SPORT",
+		"registered": "2018-07-11 12:03:29",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "408",
+		"client_id": "59019",
+		"type": "SZGK",
+		"registered": "2016-07-26 15:33:23",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "409",
+		"client_id": "59033",
+		"type": "SZGK",
+		"registered": "2016-06-15 11:59:17",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "410",
+		"client_id": "59061",
+		"type": "SZGK",
+		"registered": "2016-08-15 17:21:47",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "411",
+		"client_id": "59075",
+		"type": "TGK",
+		"registered": "2016-08-08 21:12:07",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "412",
+		"client_id": "59075",
+		"type": "SZGK",
+		"registered": "2017-08-14 09:04:32",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "413",
+		"client_id": "59089",
+		"type": "SZGK",
+		"registered": "2016-06-22 10:46:07",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "414",
+		"client_id": "59096",
+		"type": "TGK",
+		"registered": "2016-08-16 08:58:03",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "415",
+		"client_id": "59096",
+		"type": "SZGK",
+		"registered": "2017-07-24 16:29:17",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "416",
+		"client_id": "59145",
+		"type": "SZGK",
+		"registered": "2016-08-06 07:13:51",
+		"ownbrand": "1",
+		"accident": "1"
+	},
+	{
+		"id": "417",
+		"client_id": "59152",
+		"type": "TGK",
+		"registered": "2016-08-12 14:01:04",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "418",
+		"client_id": "59152",
+		"type": "SZGK",
+		"registered": "2017-08-15 09:11:56",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "419",
+		"client_id": "59159",
+		"type": "TGK",
+		"registered": "2017-07-26 10:22:30",
+		"ownbrand": "0",
+		"accident": "0"
+	},
+	{
+		"id": "420",
+		"client_id": "59173",
+		"type": "SZGK",
+		"registered": "2016-08-04 23:02:01",
+		"ownbrand": "0",
+		"accident": "0"
+	},
+	{
+		"id": "421",
+		"client_id": "59187",
+		"type": "TGK",
+		"registered": "2016-08-11 11:29:48",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "422",
+		"client_id": "59187",
+		"type": "SZGK",
+		"registered": "2017-07-26 16:34:43",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "423",
+		"client_id": "59194",
+		"type": "TGK",
+		"registered": "2016-08-02 12:36:11",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "424",
+		"client_id": "59194",
+		"type": "SZGK",
+		"registered": "2017-08-05 14:03:36",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "425",
+		"client_id": "59201",
+		"type": "TGK",
+		"registered": "2016-08-16 10:32:29",
+		"ownbrand": "0",
+		"accident": "0"
+	},
+	{
+		"id": "426",
+		"client_id": "59201",
+		"type": "SZGK",
+		"registered": "2017-07-26 16:19:31",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "427",
+		"client_id": "59208",
+		"type": "TGK",
+		"registered": "2016-08-11 16:47:17",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "428",
+		"client_id": "59208",
+		"type": "SZGK",
+		"registered": "2017-07-26 16:29:06",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "429",
+		"client_id": "59222",
+		"type": "SZGK",
+		"registered": "2016-08-16 22:54:38",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "430",
+		"client_id": "59229",
+		"type": "TGK",
+		"registered": "2016-08-09 10:09:31",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "431",
+		"client_id": "59236",
+		"type": "TGK",
+		"registered": "2016-08-09 11:15:10",
+		"ownbrand": "0",
+		"accident": "0"
+	},
+	{
+		"id": "432",
+		"client_id": "59236",
+		"type": "SZGK",
+		"registered": "2017-07-26 16:39:10",
+		"ownbrand": "0",
+		"accident": "0"
+	},
+	{
+		"id": "433",
+		"client_id": "59271",
+		"type": "TGK",
+		"registered": "2016-07-13 14:05:16",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "434",
+		"client_id": "59271",
+		"type": "SZGK",
+		"registered": "2017-07-26 09:26:35",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "435",
+		"client_id": "59285",
+		"type": "TGK",
+		"registered": "2016-08-16 10:41:38",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "436",
+		"client_id": "59285",
+		"type": "SZGK",
+		"registered": "2017-08-13 20:13:49",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "437",
+		"client_id": "59299",
+		"type": "SZGK",
+		"registered": "2016-06-29 16:27:00",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "438",
+		"client_id": "59306",
+		"type": "SZGK",
+		"registered": "2016-08-14 08:46:03",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "439",
+		"client_id": "59313",
+		"type": "SZGK",
+		"registered": "2016-08-04 13:15:03",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "440",
+		"client_id": "59320",
+		"type": "SZGK",
+		"registered": "2016-06-15 08:48:49",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "441",
+		"client_id": "59341",
+		"type": "SZGK",
+		"registered": "2016-07-28 12:57:35",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "442",
+		"client_id": "59348",
+		"type": "TGK",
+		"registered": "2016-07-24 15:24:36",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "443",
+		"client_id": "59348",
+		"type": "SZGK",
+		"registered": "2017-07-11 20:08:19",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "444",
+		"client_id": "59355",
+		"type": "TGK",
+		"registered": "2016-06-09 15:06:40",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "445",
+		"client_id": "59355",
+		"type": "SPORT",
+		"registered": "2016-06-10 08:27:27",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "446",
+		"client_id": "59355",
+		"type": "SZGK",
+		"registered": "2017-06-29 11:13:28",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "447",
+		"client_id": "59369",
+		"type": "TGK",
+		"registered": "2016-08-08 08:08:19",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "448",
+		"client_id": "59369",
+		"type": "SZGK",
+		"registered": "2017-08-14 07:23:14",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "449",
+		"client_id": "59376",
+		"type": "TGK",
+		"registered": "2016-07-05 10:40:16",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "450",
+		"client_id": "59376",
+		"type": "SZGK",
+		"registered": "2017-07-26 09:43:14",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "451",
+		"client_id": "59390",
+		"type": "TGK",
+		"registered": "2016-07-19 09:36:49",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "452",
+		"client_id": "59390",
+		"type": "SZGK",
+		"registered": "2017-06-07 09:51:41",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "453",
+		"client_id": "59397",
+		"type": "TGK",
+		"registered": "2016-07-22 10:05:59",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "454",
+		"client_id": "59397",
+		"type": "SZGK",
+		"registered": "2017-08-11 22:02:50",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "455",
+		"client_id": "59404",
+		"type": "TGK",
+		"registered": "2016-07-22 14:49:14",
+		"ownbrand": "0",
+		"accident": "0"
+	},
+	{
+		"id": "456",
+		"client_id": "59404",
+		"type": "SZGK",
+		"registered": "2017-06-12 10:42:15",
+		"ownbrand": "0",
+		"accident": "0"
+	},
+	{
+		"id": "457",
+		"client_id": "59411",
+		"type": "TGK",
+		"registered": "2016-08-08 11:18:25",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "458",
+		"client_id": "59411",
+		"type": "SZGK",
+		"registered": "2017-06-27 09:09:47",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "459",
+		"client_id": "59425",
+		"type": "TGK",
+		"registered": "2016-07-14 21:04:46",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "460",
+		"client_id": "59425",
+		"type": "SZGK",
+		"registered": "2017-06-16 11:05:56",
+		"ownbrand": "0",
+		"accident": "0"
+	},
+	{
+		"id": "461",
+		"client_id": "59432",
+		"type": "TGK",
+		"registered": "2016-07-12 11:50:16",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "462",
+		"client_id": "59432",
+		"type": "SZGK",
+		"registered": "2017-07-03 14:54:46",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "463",
+		"client_id": "59439",
+		"type": "TGK",
+		"registered": "2018-07-30 14:32:04",
+		"ownbrand": "0",
+		"accident": "0"
+	},
+	{
+		"id": "464",
+		"client_id": "59446",
+		"type": "TGK",
+		"registered": "2016-07-20 09:17:23",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "465",
+		"client_id": "59446",
+		"type": "SZGK",
+		"registered": "2017-08-10 08:45:42",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "466",
+		"client_id": "59453",
+		"type": "SZGK",
+		"registered": "2016-06-28 09:55:30",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "467",
+		"client_id": "59460",
+		"type": "TGK",
+		"registered": "2016-07-13 14:03:55",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "468",
+		"client_id": "59460",
+		"type": "SZGK",
+		"registered": "2017-07-26 15:03:46",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "469",
+		"client_id": "59474",
+		"type": "TGK",
+		"registered": "2016-06-23 14:58:20",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "470",
+		"client_id": "59474",
+		"type": "SZGK",
+		"registered": "2017-06-23 17:38:38",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "471",
+		"client_id": "59488",
+		"type": "TGK",
+		"registered": "2016-07-25 22:24:45",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "472",
+		"client_id": "59488",
+		"type": "SZGK",
+		"registered": "2017-07-18 16:55:51",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "473",
+		"client_id": "59495",
+		"type": "SZGK",
+		"registered": "2016-06-24 14:33:21",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "474",
+		"client_id": "59509",
+		"type": "TGK",
+		"registered": "2016-07-26 16:13:28",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "475",
+		"client_id": "59509",
+		"type": "SZGK",
+		"registered": "2017-08-03 10:16:14",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "476",
+		"client_id": "59530",
+		"type": "TGK",
+		"registered": "2016-07-13 14:29:58",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "477",
+		"client_id": "59530",
+		"type": "SZGK",
+		"registered": "2017-01-31 20:35:55",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "478",
+		"client_id": "59544",
+		"type": "TGK",
+		"registered": "2016-07-07 14:26:42",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "479",
+		"client_id": "59544",
+		"type": "SZGK",
+		"registered": "2017-07-12 16:12:24",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "480",
+		"client_id": "59551",
+		"type": "TGK",
+		"registered": "2016-06-21 10:25:50",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "481",
+		"client_id": "59551",
+		"type": "SZGK",
+		"registered": "2017-06-26 09:01:37",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "482",
+		"client_id": "59565",
+		"type": "TGK",
+		"registered": "2016-06-28 06:38:09",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "483",
+		"client_id": "59565",
+		"type": "SZGK",
+		"registered": "2017-03-21 10:37:06",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "484",
+		"client_id": "59572",
+		"type": "TGK",
+		"registered": "2016-08-16 09:05:56",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "485",
+		"client_id": "59572",
+		"type": "SZGK",
+		"registered": "2017-08-15 20:35:03",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "486",
+		"client_id": "59579",
+		"type": "TGK",
+		"registered": "2016-06-13 09:31:11",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "487",
+		"client_id": "59586",
+		"type": "SZGK",
+		"registered": "2016-07-27 22:28:35",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "488",
+		"client_id": "59600",
+		"type": "TGK",
+		"registered": "2016-08-01 10:53:44",
+		"ownbrand": "1",
+		"accident": "2"
+	},
+	{
+		"id": "489",
+		"client_id": "59600",
+		"type": "SZGK",
+		"registered": "2017-07-26 09:23:38",
+		"ownbrand": "1",
+		"accident": "2"
+	},
+	{
+		"id": "490",
+		"client_id": "59614",
+		"type": "TGK",
+		"registered": "2016-07-29 11:29:48",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "491",
+		"client_id": "59614",
+		"type": "SZGK",
+		"registered": "2017-07-19 13:40:40",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "492",
+		"client_id": "59621",
+		"type": "TGK",
+		"registered": "2016-08-03 08:47:20",
+		"ownbrand": "0",
+		"accident": "0"
+	},
+	{
+		"id": "493",
+		"client_id": "59621",
+		"type": "SZGK",
+		"registered": "2017-07-19 17:32:32",
+		"ownbrand": "0",
+		"accident": "0"
+	},
+	{
+		"id": "494",
+		"client_id": "59628",
+		"type": "TGK",
+		"registered": "2016-07-27 14:51:16",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "495",
+		"client_id": "59628",
+		"type": "SZGK",
+		"registered": "2017-08-02 09:53:57",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "496",
+		"client_id": "59642",
+		"type": "TGK",
+		"registered": "2016-07-26 18:58:48",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "497",
+		"client_id": "59642",
+		"type": "SZGK",
+		"registered": "2017-08-11 12:34:05",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "498",
+		"client_id": "59649",
+		"type": "SZGK",
+		"registered": "2016-07-05 15:09:51",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "499",
+		"client_id": "59656",
+		"type": "SZGK",
+		"registered": "2016-08-04 17:01:16",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "500",
+		"client_id": "59670",
+		"type": "TGK",
+		"registered": "2016-07-01 22:09:13",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "501",
+		"client_id": "59670",
+		"type": "SZGK",
+		"registered": "2017-09-14 12:32:21",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "502",
+		"client_id": "59677",
+		"type": "TGK",
+		"registered": "2016-08-02 14:31:39",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "503",
+		"client_id": "59677",
+		"type": "SZGK",
+		"registered": "2017-08-02 16:24:37",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "504",
+		"client_id": "59684",
+		"type": "TGK",
+		"registered": "2016-06-28 11:51:37",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "505",
+		"client_id": "59684",
+		"type": "SZGK",
+		"registered": "2017-07-13 19:33:26",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "506",
+		"client_id": "59691",
+		"type": "TGK",
+		"registered": "2016-07-25 14:40:50",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "507",
+		"client_id": "59691",
+		"type": "SZGK",
+		"registered": "2017-07-09 13:37:42",
+		"ownbrand": "0",
+		"accident": "0"
+	},
+	{
+		"id": "508",
+		"client_id": "59712",
+		"type": "TGK",
+		"registered": "2016-07-22 08:56:14",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "509",
+		"client_id": "59712",
+		"type": "SZGK",
+		"registered": "2017-07-12 15:39:04",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "510",
+		"client_id": "59719",
+		"type": "SZGK",
+		"registered": "2016-07-11 17:15:10",
+		"ownbrand": "0",
+		"accident": "0"
+	},
+	{
+		"id": "511",
+		"client_id": "59733",
+		"type": "TGK",
+		"registered": "2016-06-30 19:18:13",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "512",
+		"client_id": "59733",
+		"type": "TGK",
+		"registered": "2017-08-30 14:13:29",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "513",
+		"client_id": "59733",
+		"type": "TGK",
+		"registered": "2018-07-09 18:07:46",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "514",
+		"client_id": "59740",
+		"type": "TGK",
+		"registered": "2016-07-29 11:06:43",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "515",
+		"client_id": "59740",
+		"type": "SZGK",
+		"registered": "2017-08-09 11:25:30",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "516",
+		"client_id": "59761",
+		"type": "SZGK",
+		"registered": "2016-07-24 14:31:33",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "517",
+		"client_id": "59768",
+		"type": "SZGK",
+		"registered": "2016-07-11 22:33:54",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "518",
+		"client_id": "59789",
+		"type": "SZGK",
+		"registered": "2016-07-17 22:49:22",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "519",
+		"client_id": "59796",
+		"type": "TGK",
+		"registered": "2016-08-16 14:01:04",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "520",
+		"client_id": "59796",
+		"type": "SZGK",
+		"registered": "2017-06-25 22:48:06",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "521",
+		"client_id": "59803",
+		"type": "TGK",
+		"registered": "2016-06-20 21:54:24",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "522",
+		"client_id": "59803",
+		"type": "SZGK",
+		"registered": "2017-04-09 13:52:29",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "523",
+		"client_id": "59817",
+		"type": "TGK",
+		"registered": "2016-07-14 10:54:40",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "524",
+		"client_id": "59817",
+		"type": "SZGK",
+		"registered": "2017-08-09 08:26:41",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "525",
+		"client_id": "59824",
+		"type": "TGK",
+		"registered": "2016-07-18 09:48:12",
+		"ownbrand": "0",
+		"accident": "0"
+	},
+	{
+		"id": "526",
+		"client_id": "59831",
+		"type": "TGK",
+		"registered": "2016-07-11 15:02:30",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "527",
+		"client_id": "59831",
+		"type": "SZGK",
+		"registered": "2017-06-12 11:29:08",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "528",
+		"client_id": "59838",
+		"type": "TGK",
+		"registered": "2016-07-21 14:09:14",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "529",
+		"client_id": "59838",
+		"type": "SZGK",
+		"registered": "2017-05-12 07:17:04",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "530",
+		"client_id": "59845",
+		"type": "TGK",
+		"registered": "2016-07-28 10:26:40",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "531",
+		"client_id": "59859",
+		"type": "TGK",
+		"registered": "2016-07-26 15:25:00",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "532",
+		"client_id": "59859",
+		"type": "SZGK",
+		"registered": "2017-05-25 14:04:31",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "533",
+		"client_id": "59866",
+		"type": "TGK",
+		"registered": "2016-07-17 11:49:38",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "534",
+		"client_id": "59866",
+		"type": "SZGK",
+		"registered": "2017-05-09 17:08:11",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "535",
+		"client_id": "59887",
+		"type": "TGK",
+		"registered": "2016-08-10 13:13:34",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "536",
+		"client_id": "59887",
+		"type": "SZGK",
+		"registered": "2017-07-20 19:04:23",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "537",
+		"client_id": "59901",
+		"type": "SZGK",
+		"registered": "2016-07-21 17:44:25",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "538",
+		"client_id": "59915",
+		"type": "TGK",
+		"registered": "2016-07-21 11:54:03",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "539",
+		"client_id": "59915",
+		"type": "SZGK",
+		"registered": "2017-07-11 13:37:13",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "540",
+		"client_id": "59922",
+		"type": "TGK",
+		"registered": "2016-07-28 20:31:01",
+		"ownbrand": "1",
+		"accident": "1"
+	},
+	{
+		"id": "541",
+		"client_id": "59922",
+		"type": "SZGK",
+		"registered": "2017-07-11 12:36:55",
+		"ownbrand": "1",
+		"accident": "1"
+	},
+	{
+		"id": "542",
+		"client_id": "59950",
+		"type": "SZGK",
+		"registered": "2016-06-21 12:58:30",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "543",
+		"client_id": "59971",
+		"type": "SZGK",
+		"registered": "2016-08-03 09:53:39",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "544",
+		"client_id": "59985",
+		"type": "TGK",
+		"registered": "2016-06-21 11:17:50",
+		"ownbrand": "1",
+		"accident": "1"
+	},
+	{
+		"id": "545",
+		"client_id": "59985",
+		"type": "SZGK",
+		"registered": "2016-10-25 10:34:44",
+		"ownbrand": "1",
+		"accident": "1"
+	},
+	{
+		"id": "546",
+		"client_id": "60048",
+		"type": "SZGK",
+		"registered": "2016-05-30 19:58:24",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "547",
+		"client_id": "60062",
+		"type": "SZGK",
+		"registered": "2016-06-02 11:59:08",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "548",
+		"client_id": "60076",
+		"type": "TGK",
+		"registered": "2016-06-30 16:06:26",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "549",
+		"client_id": "60076",
+		"type": "SZGK",
+		"registered": "2017-07-04 09:30:52",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "550",
+		"client_id": "60090",
+		"type": "TGK",
+		"registered": "2016-08-02 13:08:32",
+		"ownbrand": "0",
+		"accident": "0"
+	},
+	{
+		"id": "551",
+		"client_id": "60090",
+		"type": "SZGK",
+		"registered": "2016-11-10 10:19:19",
+		"ownbrand": "0",
+		"accident": "0"
+	},
+	{
+		"id": "552",
+		"client_id": "60111",
+		"type": "TGK",
+		"registered": "2016-07-10 12:31:28",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "553",
+		"client_id": "60111",
+		"type": "SZGK",
+		"registered": "2017-07-30 17:32:31",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "554",
+		"client_id": "60118",
+		"type": "SZGK",
+		"registered": "2016-07-20 16:21:10",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "555",
+		"client_id": "60125",
+		"type": "TGK",
+		"registered": "2016-07-14 11:47:11",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "556",
+		"client_id": "60125",
+		"type": "SZGK",
+		"registered": "2017-07-24 11:35:27",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "557",
+		"client_id": "60132",
+		"type": "SZGK",
+		"registered": "2016-06-01 19:06:03",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "558",
+		"client_id": "60139",
+		"type": "SZGK",
+		"registered": "2016-07-05 17:37:00",
+		"ownbrand": "1",
+		"accident": "2"
+	},
+	{
+		"id": "559",
+		"client_id": "60139",
+		"type": "SPORT",
+		"registered": "2016-07-17 11:20:40",
+		"ownbrand": "1",
+		"accident": "2"
+	},
+	{
+		"id": "560",
+		"client_id": "60174",
+		"type": "TGK",
+		"registered": "2016-06-14 14:12:53",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "561",
+		"client_id": "60174",
+		"type": "SZGK",
+		"registered": "2017-03-21 12:16:04",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "562",
+		"client_id": "60181",
+		"type": "TGK",
+		"registered": "2016-07-27 21:18:34",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "563",
+		"client_id": "60181",
+		"type": "SZGK",
+		"registered": "2017-06-08 11:56:11",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "564",
+		"client_id": "60188",
+		"type": "TGK",
+		"registered": "2016-07-25 11:15:42",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "565",
+		"client_id": "60188",
+		"type": "SZGK",
+		"registered": "2017-08-13 19:54:38",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "566",
+		"client_id": "60195",
+		"type": "TGK",
+		"registered": "2016-07-18 09:41:05",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "567",
+		"client_id": "60195",
+		"type": "SZGK",
+		"registered": "2017-07-15 16:07:22",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "568",
+		"client_id": "60202",
+		"type": "TGK",
+		"registered": "2016-08-16 17:39:37",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "569",
+		"client_id": "60209",
+		"type": "TGK",
+		"registered": "2016-07-25 13:04:00",
+		"ownbrand": "1",
+		"accident": "1"
+	},
+	{
+		"id": "570",
+		"client_id": "60209",
+		"type": "SZGK",
+		"registered": "2017-05-12 16:36:07",
+		"ownbrand": "1",
+		"accident": "1"
+	},
+	{
+		"id": "571",
+		"client_id": "60216",
+		"type": "TGK",
+		"registered": "2016-06-28 10:39:19",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "572",
+		"client_id": "60216",
+		"type": "SZGK",
+		"registered": "2017-09-18 10:47:17",
+		"ownbrand": "0",
+		"accident": "0"
+	},
+	{
+		"id": "573",
+		"client_id": "60230",
+		"type": "TGK",
+		"registered": "2016-07-26 11:25:20",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "574",
+		"client_id": "60230",
+		"type": "SZGK",
+		"registered": "2017-08-01 11:05:01",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "575",
+		"client_id": "60244",
+		"type": "TGK",
+		"registered": "2016-08-09 13:30:14",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "576",
+		"client_id": "60244",
+		"type": "SZGK",
+		"registered": "2017-07-19 15:48:15",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "577",
+		"client_id": "60251",
+		"type": "TGK",
+		"registered": "2016-06-28 17:43:13",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "578",
+		"client_id": "60251",
+		"type": "SZGK",
+		"registered": "2017-07-17 12:49:38",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "579",
+		"client_id": "60279",
+		"type": "SZGK",
+		"registered": "2016-08-15 12:19:34",
+		"ownbrand": "1",
+		"accident": "1"
+	},
+	{
+		"id": "580",
+		"client_id": "60286",
+		"type": "SZGK",
+		"registered": "2016-07-12 14:18:15",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "581",
+		"client_id": "60293",
+		"type": "TGK",
+		"registered": "2016-07-11 18:55:54",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "582",
+		"client_id": "60293",
+		"type": "SZGK",
+		"registered": "2017-07-26 09:46:18",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "583",
+		"client_id": "60321",
+		"type": "TGK",
+		"registered": "2016-05-31 21:20:29",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "584",
+		"client_id": "60321",
+		"type": "SZGK",
+		"registered": "2017-06-17 09:10:26",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "585",
+		"client_id": "60328",
+		"type": "TGK",
+		"registered": "2016-07-17 15:51:35",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "586",
+		"client_id": "60328",
+		"type": "SZGK",
+		"registered": "2017-07-13 09:28:47",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "587",
+		"client_id": "60342",
+		"type": "SZGK",
+		"registered": "2016-07-06 18:41:49",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "588",
+		"client_id": "60356",
+		"type": "TGK",
+		"registered": "2017-02-18 19:02:04",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "589",
+		"client_id": "60356",
+		"type": "SZGK",
+		"registered": "2017-07-26 15:56:31",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "590",
+		"client_id": "60363",
+		"type": "TGK",
+		"registered": "2016-08-09 14:31:15",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "591",
+		"client_id": "60363",
+		"type": "SZGK",
+		"registered": "2017-08-09 18:10:20",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "592",
+		"client_id": "60370",
+		"type": "TGK",
+		"registered": "2016-07-26 17:07:57",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "593",
+		"client_id": "60370",
+		"type": "SZGK",
+		"registered": "2017-07-31 12:22:35",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "594",
+		"client_id": "60384",
+		"type": "SZGK",
+		"registered": "2016-07-26 17:34:42",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "595",
+		"client_id": "60391",
+		"type": "TGK",
+		"registered": "2016-08-04 14:52:07",
+		"ownbrand": "1",
+		"accident": "2"
+	},
+	{
+		"id": "596",
+		"client_id": "60391",
+		"type": "SZGK",
+		"registered": "2017-08-10 17:04:04",
+		"ownbrand": "1",
+		"accident": "2"
+	},
+	{
+		"id": "597",
+		"client_id": "60398",
+		"type": "TGK",
+		"registered": "2016-07-01 00:18:48",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "598",
+		"client_id": "60398",
+		"type": "SZGK",
+		"registered": "2017-06-27 09:36:20",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "599",
+		"client_id": "60405",
+		"type": "TGK",
+		"registered": "2016-07-04 09:24:45",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "600",
+		"client_id": "60405",
+		"type": "SZGK",
+		"registered": "2016-10-17 13:50:57",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "601",
+		"client_id": "60412",
+		"type": "TGK",
+		"registered": "2016-07-01 01:41:25",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "602",
+		"client_id": "60412",
+		"type": "SZGK",
+		"registered": "2017-07-27 11:44:18",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "603",
+		"client_id": "60426",
+		"type": "TGK",
+		"registered": "2016-07-20 03:38:22",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "604",
+		"client_id": "60426",
+		"type": "SZGK",
+		"registered": "2017-06-20 13:55:35",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "605",
+		"client_id": "60447",
+		"type": "TGK",
+		"registered": "2016-07-04 19:17:37",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "606",
+		"client_id": "60447",
+		"type": "SZGK",
+		"registered": "2017-08-02 16:15:37",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "607",
+		"client_id": "60454",
+		"type": "SZGK",
+		"registered": "2016-07-13 13:42:15",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "608",
+		"client_id": "60461",
+		"type": "TGK",
+		"registered": "2016-07-04 09:51:27",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "609",
+		"client_id": "60461",
+		"type": "SZGK",
+		"registered": "2018-08-11 17:15:22",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "610",
+		"client_id": "60482",
+		"type": "TGK",
+		"registered": "2016-07-20 03:32:47",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "611",
+		"client_id": "60482",
+		"type": "SZGK",
+		"registered": "2017-05-25 14:42:48",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "612",
+		"client_id": "60503",
+		"type": "TGK",
+		"registered": "2016-07-18 16:31:09",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "613",
+		"client_id": "60503",
+		"type": "SZGK",
+		"registered": "2017-07-07 09:29:42",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "614",
+		"client_id": "60524",
+		"type": "TGK",
+		"registered": "2016-06-25 15:16:00",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "615",
+		"client_id": "60524",
+		"type": "SZGK",
+		"registered": "2017-05-15 13:45:10",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "616",
+		"client_id": "60552",
+		"type": "TGK",
+		"registered": "2016-07-05 14:32:39",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "617",
+		"client_id": "60559",
+		"type": "SZGK",
+		"registered": "2016-07-14 08:50:39",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "618",
+		"client_id": "60580",
+		"type": "TGK",
+		"registered": "2016-07-25 20:12:39",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "619",
+		"client_id": "60580",
+		"type": "SZGK",
+		"registered": "2017-07-30 17:40:44",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "620",
+		"client_id": "60601",
+		"type": "TGK",
+		"registered": "2016-07-02 06:44:23",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "621",
+		"client_id": "60615",
+		"type": "SZGK",
+		"registered": "2016-06-13 07:34:28",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "622",
+		"client_id": "60636",
+		"type": "TGK",
+		"registered": "2016-07-24 11:32:36",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "623",
+		"client_id": "60636",
+		"type": "SZGK",
+		"registered": "2017-06-27 23:36:18",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "624",
+		"client_id": "60643",
+		"type": "TGK",
+		"registered": "2016-08-08 17:37:26",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "625",
+		"client_id": "60643",
+		"type": "SZGK",
+		"registered": "2017-07-27 17:55:53",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "626",
+		"client_id": "60650",
+		"type": "TGK",
+		"registered": "2016-07-27 10:46:47",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "627",
+		"client_id": "60650",
+		"type": "SZGK",
+		"registered": "2017-07-26 16:14:51",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "628",
+		"client_id": "60657",
+		"type": "TGK",
+		"registered": "2016-06-13 14:01:39",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "629",
+		"client_id": "60657",
+		"type": "SZGK",
+		"registered": "2017-06-29 07:09:24",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "630",
+		"client_id": "60664",
+		"type": "TGK",
+		"registered": "2016-08-15 21:48:04",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "631",
+		"client_id": "60664",
+		"type": "SZGK",
+		"registered": "2017-08-01 08:16:23",
+		"ownbrand": "0",
+		"accident": "0"
+	},
+	{
+		"id": "632",
+		"client_id": "60671",
+		"type": "SZGK",
+		"registered": "2016-07-11 09:54:22",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "633",
+		"client_id": "60699",
+		"type": "TGK",
+		"registered": "2016-06-27 20:36:48",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "634",
+		"client_id": "60699",
+		"type": "SZGK",
+		"registered": "2017-06-15 19:54:04",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "635",
+		"client_id": "60713",
+		"type": "TGK",
+		"registered": "2016-08-11 09:58:27",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "636",
+		"client_id": "60713",
+		"type": "SZGK",
+		"registered": "2017-07-25 18:17:34",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "637",
+		"client_id": "60720",
+		"type": "TGK",
+		"registered": "2016-08-15 11:38:52",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "638",
+		"client_id": "60727",
+		"type": "SZGK",
+		"registered": "2016-06-24 11:12:00",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "639",
+		"client_id": "60734",
+		"type": "SZGK",
+		"registered": "2016-07-22 13:15:09",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "640",
+		"client_id": "60769",
+		"type": "SZGK",
+		"registered": "2016-08-08 11:56:27",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "641",
+		"client_id": "60776",
+		"type": "SZGK",
+		"registered": "2016-06-20 11:40:28",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "642",
+		"client_id": "60790",
+		"type": "TGK",
+		"registered": "2016-08-12 11:28:07",
+		"ownbrand": "1",
+		"accident": "1"
+	},
+	{
+		"id": "643",
+		"client_id": "60790",
+		"type": "SZGK",
+		"registered": "2017-09-13 11:45:13",
+		"ownbrand": "1",
+		"accident": "1"
+	},
+	{
+		"id": "644",
+		"client_id": "60797",
+		"type": "SZGK",
+		"registered": "2016-07-04 11:17:44",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "645",
+		"client_id": "60839",
+		"type": "TGK",
+		"registered": "2016-07-19 08:48:58",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "646",
+		"client_id": "60839",
+		"type": "SZGK",
+		"registered": "2017-07-28 13:46:12",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "647",
+		"client_id": "60846",
+		"type": "TGK",
+		"registered": "2016-07-29 17:38:27",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "648",
+		"client_id": "60846",
+		"type": "SZGK",
+		"registered": "2017-10-26 14:30:13",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "649",
+		"client_id": "60867",
+		"type": "SZGK",
+		"registered": "2016-08-12 10:39:11",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "650",
+		"client_id": "60902",
+		"type": "TGK",
+		"registered": "2016-07-27 10:08:33",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "651",
+		"client_id": "60902",
+		"type": "SZGK",
+		"registered": "2017-09-12 16:06:25",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "652",
+		"client_id": "60909",
+		"type": "SZGK",
+		"registered": "2016-06-22 12:42:46",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "653",
+		"client_id": "60930",
+		"type": "SZGK",
+		"registered": "2016-08-10 13:33:19",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "654",
+		"client_id": "60937",
+		"type": "SZGK",
+		"registered": "2016-06-05 13:57:42",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "655",
+		"client_id": "60944",
+		"type": "TGK",
+		"registered": "2016-07-22 06:09:05",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "656",
+		"client_id": "60944",
+		"type": "SZGK",
+		"registered": "2017-02-16 15:24:40",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "657",
+		"client_id": "60951",
+		"type": "TGK",
+		"registered": "2016-08-12 07:32:46",
+		"ownbrand": "0",
+		"accident": "0"
+	},
+	{
+		"id": "658",
+		"client_id": "60951",
+		"type": "SZGK",
+		"registered": "2017-07-26 16:23:17",
+		"ownbrand": "0",
+		"accident": "0"
+	},
+	{
+		"id": "659",
+		"client_id": "60965",
+		"type": "SZGK",
+		"registered": "2016-07-26 16:55:08",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "660",
+		"client_id": "60986",
+		"type": "TGK",
+		"registered": "2016-08-22 11:55:06",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "661",
+		"client_id": "60986",
+		"type": "SZGK",
+		"registered": "2017-07-26 09:00:28",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "662",
+		"client_id": "60993",
+		"type": "TGK",
+		"registered": "2016-08-10 10:53:44",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "663",
+		"client_id": "60993",
+		"type": "SZGK",
+		"registered": "2017-08-08 10:26:48",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "664",
+		"client_id": "61000",
+		"type": "SZGK",
+		"registered": "2016-08-10 10:01:55",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "665",
+		"client_id": "61007",
+		"type": "TGK",
+		"registered": "2016-07-08 10:12:52",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "666",
+		"client_id": "61007",
+		"type": "SZGK",
+		"registered": "2017-08-22 13:44:50",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "667",
+		"client_id": "61014",
+		"type": "SZGK",
+		"registered": "2016-06-24 08:39:55",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "668",
+		"client_id": "61021",
+		"type": "TGK",
+		"registered": "2016-07-31 16:27:29",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "669",
+		"client_id": "61021",
+		"type": "SZGK",
+		"registered": "2017-08-14 21:50:58",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "670",
+		"client_id": "61042",
+		"type": "TGK",
+		"registered": "2016-08-10 11:55:00",
+		"ownbrand": "1",
+		"accident": "1"
+	},
+	{
+		"id": "671",
+		"client_id": "61070",
+		"type": "SZGK",
+		"registered": "2016-08-10 16:07:01",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "672",
+		"client_id": "61084",
+		"type": "TGK",
+		"registered": "2016-08-12 15:48:12",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "673",
+		"client_id": "61084",
+		"type": "SZGK",
+		"registered": "2017-08-09 13:29:15",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "674",
+		"client_id": "61091",
+		"type": "TGK",
+		"registered": "2016-06-28 08:48:29",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "675",
+		"client_id": "61091",
+		"type": "SZGK",
+		"registered": "2017-03-13 09:43:57",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "676",
+		"client_id": "61112",
+		"type": "SZGK",
+		"registered": "2016-08-16 18:45:58",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "677",
+		"client_id": "61119",
+		"type": "SZGK",
+		"registered": "2016-07-27 14:16:43",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "678",
+		"client_id": "61133",
+		"type": "TGK",
+		"registered": "2016-07-11 10:31:00",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "679",
+		"client_id": "61133",
+		"type": "SZGK",
+		"registered": "2017-07-18 14:50:41",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "680",
+		"client_id": "61140",
+		"type": "SZGK",
+		"registered": "2016-07-25 10:43:49",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "681",
+		"client_id": "61147",
+		"type": "SZGK",
+		"registered": "2016-06-13 13:57:38",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "682",
+		"client_id": "61154",
+		"type": "TGK",
+		"registered": "2016-08-16 17:55:42",
+		"ownbrand": "0",
+		"accident": "0"
+	},
+	{
+		"id": "683",
+		"client_id": "61154",
+		"type": "SZGK",
+		"registered": "2017-07-31 09:21:24",
+		"ownbrand": "0",
+		"accident": "0"
+	},
+	{
+		"id": "684",
+		"client_id": "61161",
+		"type": "TGK",
+		"registered": "2016-07-29 12:24:31",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "685",
+		"client_id": "61161",
+		"type": "SZGK",
+		"registered": "2017-07-12 10:00:50",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "686",
+		"client_id": "61175",
+		"type": "SPORT",
+		"registered": "2016-05-18 09:53:58",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "687",
+		"client_id": "61175",
+		"type": "TGK",
+		"registered": "2016-07-19 16:57:21",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "688",
+		"client_id": "61175",
+		"type": "SPORT",
+		"registered": "2016-07-28 09:09:40",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "689",
+		"client_id": "61175",
+		"type": "SPORT",
+		"registered": "2016-08-01 21:49:34",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "690",
+		"client_id": "61175",
+		"type": "SZGK",
+		"registered": "2017-07-16 12:19:25",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "691",
+		"client_id": "61182",
+		"type": "SZGK",
+		"registered": "2016-06-10 08:15:03",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "692",
+		"client_id": "61196",
+		"type": "SZGK",
+		"registered": "2016-07-25 22:17:47",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "693",
+		"client_id": "61203",
+		"type": "SZGK",
+		"registered": "2016-08-12 16:39:27",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "694",
+		"client_id": "61217",
+		"type": "TGK",
+		"registered": "2016-07-15 15:29:45",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "695",
+		"client_id": "61217",
+		"type": "SZGK",
+		"registered": "2017-07-20 15:42:08",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "696",
+		"client_id": "61224",
+		"type": "TGK",
+		"registered": "2016-08-12 16:31:23",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "697",
+		"client_id": "61252",
+		"type": "SZGK",
+		"registered": "2016-07-18 13:49:24",
+		"ownbrand": "0",
+		"accident": "0"
+	},
+	{
+		"id": "698",
+		"client_id": "61280",
+		"type": "SZGK",
+		"registered": "2016-07-03 21:41:26",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "699",
+		"client_id": "61287",
+		"type": "TGK",
+		"registered": "2016-07-09 22:59:05",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "700",
+		"client_id": "61287",
+		"type": "SZGK",
+		"registered": "2016-09-12 21:40:58",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "701",
+		"client_id": "61308",
+		"type": "TGK",
+		"registered": "2016-07-27 23:46:14",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "702",
+		"client_id": "61315",
+		"type": "TGK",
+		"registered": "2016-08-16 10:21:39",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "703",
+		"client_id": "61315",
+		"type": "SZGK",
+		"registered": "2017-09-14 03:49:22",
+		"ownbrand": "0",
+		"accident": "0"
+	},
+	{
+		"id": "704",
+		"client_id": "61322",
+		"type": "TGK",
+		"registered": "2016-08-06 15:17:25",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "705",
+		"client_id": "61322",
+		"type": "SZGK",
+		"registered": "2017-06-16 11:25:36",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "706",
+		"client_id": "61350",
+		"type": "SZGK",
+		"registered": "2016-07-07 10:03:31",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "707",
+		"client_id": "61357",
+		"type": "TGK",
+		"registered": "2016-08-16 02:39:52",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "708",
+		"client_id": "61357",
+		"type": "SZGK",
+		"registered": "2017-08-07 12:05:08",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "709",
+		"client_id": "61378",
+		"type": "TGK",
+		"registered": "2016-07-25 09:06:58",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "710",
+		"client_id": "61399",
+		"type": "TGK",
+		"registered": "2016-08-15 00:34:29",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "711",
+		"client_id": "61399",
+		"type": "SZGK",
+		"registered": "2017-07-14 10:09:02",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "712",
+		"client_id": "61441",
+		"type": "TGK",
+		"registered": "2016-08-10 11:05:21",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "713",
+		"client_id": "61441",
+		"type": "SZGK",
+		"registered": "2017-07-24 13:53:53",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "714",
+		"client_id": "61462",
+		"type": "TGK",
+		"registered": "2016-07-20 10:36:16",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "715",
+		"client_id": "61462",
+		"type": "SZGK",
+		"registered": "2017-07-20 08:05:24",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "716",
+		"client_id": "61476",
+		"type": "TGK",
+		"registered": "2016-08-09 09:40:08",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "717",
+		"client_id": "61476",
+		"type": "SZGK",
+		"registered": "2017-08-09 15:04:36",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "718",
+		"client_id": "61483",
+		"type": "TGK",
+		"registered": "2016-08-08 15:28:20",
+		"ownbrand": "1",
+		"accident": "1"
+	},
+	{
+		"id": "719",
+		"client_id": "61497",
+		"type": "TGK",
+		"registered": "2016-08-16 08:55:22",
+		"ownbrand": "0",
+		"accident": "0"
+	},
+	{
+		"id": "720",
+		"client_id": "61504",
+		"type": "TGK",
+		"registered": "2016-08-07 09:34:13",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "721",
+		"client_id": "61504",
+		"type": "SZGK",
+		"registered": "2017-05-22 17:51:15",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "722",
+		"client_id": "61511",
+		"type": "TGK",
+		"registered": "2016-08-15 14:10:49",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "723",
+		"client_id": "61511",
+		"type": "SZGK",
+		"registered": "2017-07-03 23:00:56",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "724",
+		"client_id": "61518",
+		"type": "TGK",
+		"registered": "2016-05-30 09:47:26",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "725",
+		"client_id": "61518",
+		"type": "SZGK",
+		"registered": "2016-09-27 10:21:09",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "726",
+		"client_id": "61525",
+		"type": "TGK",
+		"registered": "2016-08-02 13:45:23",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "727",
+		"client_id": "61525",
+		"type": "SZGK",
+		"registered": "2017-08-15 19:59:03",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "728",
+		"client_id": "61532",
+		"type": "TGK",
+		"registered": "2016-07-04 13:17:50",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "729",
+		"client_id": "61532",
+		"type": "SZGK",
+		"registered": "2017-07-26 22:16:38",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "730",
+		"client_id": "61560",
+		"type": "TGK",
+		"registered": "2016-08-15 11:50:18",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "731",
+		"client_id": "61560",
+		"type": "SZGK",
+		"registered": "2017-05-22 15:17:44",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "732",
+		"client_id": "61581",
+		"type": "TGK",
+		"registered": "2016-08-10 10:20:27",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "733",
+		"client_id": "61581",
+		"type": "SZGK",
+		"registered": "2017-08-04 22:46:42",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "734",
+		"client_id": "61588",
+		"type": "TGK",
+		"registered": "2016-07-04 14:55:11",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "735",
+		"client_id": "61588",
+		"type": "SZGK",
+		"registered": "2017-05-01 12:57:29",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "736",
+		"client_id": "61602",
+		"type": "TGK",
+		"registered": "2016-07-09 08:40:41",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "737",
+		"client_id": "61602",
+		"type": "SZGK",
+		"registered": "2017-05-08 10:09:23",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "738",
+		"client_id": "61637",
+		"type": "SZGK",
+		"registered": "2016-07-29 19:09:33",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "739",
+		"client_id": "61651",
+		"type": "SZGK",
+		"registered": "2016-07-04 13:42:15",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "740",
+		"client_id": "61658",
+		"type": "TGK",
+		"registered": "2016-07-26 14:26:46",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "741",
+		"client_id": "61658",
+		"type": "SZGK",
+		"registered": "2017-04-13 13:57:18",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "742",
+		"client_id": "61665",
+		"type": "TGK",
+		"registered": "2016-08-11 07:01:20",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "743",
+		"client_id": "61665",
+		"type": "TGK",
+		"registered": "2017-06-30 09:41:37",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "744",
+		"client_id": "61665",
+		"type": "TGK",
+		"registered": "2018-08-14 13:42:57",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "745",
+		"client_id": "61672",
+		"type": "SZGK",
+		"registered": "2016-07-11 14:30:46",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "746",
+		"client_id": "61679",
+		"type": "TGK",
+		"registered": "2016-07-11 13:41:06",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "747",
+		"client_id": "61679",
+		"type": "SZGK",
+		"registered": "2017-06-12 09:00:48",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "748",
+		"client_id": "61686",
+		"type": "TGK",
+		"registered": "2016-06-24 07:45:15",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "749",
+		"client_id": "61686",
+		"type": "TGK",
+		"registered": "2017-11-29 17:29:35",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "750",
+		"client_id": "61686",
+		"type": "TGK",
+		"registered": "2018-07-13 06:58:43",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "751",
+		"client_id": "61700",
+		"type": "TGK",
+		"registered": "2016-06-27 14:49:46",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "752",
+		"client_id": "61700",
+		"type": "SZGK",
+		"registered": "2017-07-17 10:12:50",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "753",
+		"client_id": "61714",
+		"type": "SZGK",
+		"registered": "2017-05-19 11:55:40",
+		"ownbrand": "0",
+		"accident": "0"
+	},
+	{
+		"id": "754",
+		"client_id": "61742",
+		"type": "TGK",
+		"registered": "2016-08-08 14:55:06",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "755",
+		"client_id": "61742",
+		"type": "SZGK",
+		"registered": "2017-07-26 11:42:57",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "756",
+		"client_id": "61770",
+		"type": "SZGK",
+		"registered": "2016-07-06 10:00:11",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "757",
+		"client_id": "61798",
+		"type": "TGK",
+		"registered": "2016-08-14 15:30:19",
+		"ownbrand": "1",
+		"accident": "1"
+	},
+	{
+		"id": "758",
+		"client_id": "61798",
+		"type": "SZGK",
+		"registered": "2017-07-19 12:40:49",
+		"ownbrand": "1",
+		"accident": "1"
+	},
+	{
+		"id": "759",
+		"client_id": "61826",
+		"type": "TGK",
+		"registered": "2016-07-29 06:51:30",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "760",
+		"client_id": "61826",
+		"type": "SPORT",
+		"registered": "2016-07-30 08:21:27",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "761",
+		"client_id": "61826",
+		"type": "SZGK",
+		"registered": "2017-05-28 23:04:28",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "762",
+		"client_id": "61833",
+		"type": "TGK",
+		"registered": "2016-08-13 18:36:08",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "763",
+		"client_id": "61833",
+		"type": "SZGK",
+		"registered": "2017-08-01 09:44:18",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "764",
+		"client_id": "61840",
+		"type": "SZGK",
+		"registered": "2016-06-27 10:15:38",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "765",
+		"client_id": "61847",
+		"type": "SZGK",
+		"registered": "2016-08-05 11:56:34",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "766",
+		"client_id": "61910",
+		"type": "TGK",
+		"registered": "2016-07-25 21:22:59",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "767",
+		"client_id": "61910",
+		"type": "SZGK",
+		"registered": "2017-07-24 08:30:04",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "768",
+		"client_id": "61917",
+		"type": "TGK",
+		"registered": "2016-07-20 10:39:44",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "769",
+		"client_id": "61917",
+		"type": "SZGK",
+		"registered": "2017-06-27 13:02:47",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "770",
+		"client_id": "61938",
+		"type": "SZGK",
+		"registered": "2016-06-27 13:05:29",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "771",
+		"client_id": "61945",
+		"type": "TGK",
+		"registered": "2016-07-12 09:06:39",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "772",
+		"client_id": "61945",
+		"type": "SZGK",
+		"registered": "2017-06-20 09:03:19",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "773",
+		"client_id": "61952",
+		"type": "TGK",
+		"registered": "2016-08-04 14:22:10",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "774",
+		"client_id": "61952",
+		"type": "SZGK",
+		"registered": "2017-07-31 12:17:43",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "775",
+		"client_id": "61959",
+		"type": "SZGK",
+		"registered": "2016-07-28 10:39:50",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "776",
+		"client_id": "61966",
+		"type": "TGK",
+		"registered": "2016-07-21 13:12:58",
+		"ownbrand": "1",
+		"accident": "1"
+	},
+	{
+		"id": "777",
+		"client_id": "61966",
+		"type": "SZGK",
+		"registered": "2017-08-03 13:30:28",
+		"ownbrand": "1",
+		"accident": "1"
+	},
+	{
+		"id": "778",
+		"client_id": "61980",
+		"type": "SZGK",
+		"registered": "2016-07-19 10:54:48",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "779",
+		"client_id": "61987",
+		"type": "TGK",
+		"registered": "2016-10-13 16:29:31",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "780",
+		"client_id": "61994",
+		"type": "TGK",
+		"registered": "2016-06-24 09:01:50",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "781",
+		"client_id": "61994",
+		"type": "SZGK",
+		"registered": "2017-06-28 11:46:19",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "782",
+		"client_id": "62001",
+		"type": "TGK",
+		"registered": "2016-07-20 04:26:23",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "783",
+		"client_id": "62001",
+		"type": "SZGK",
+		"registered": "2017-06-20 09:38:01",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "784",
+		"client_id": "62022",
+		"type": "TGK",
+		"registered": "2016-07-02 13:29:47",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "785",
+		"client_id": "62022",
+		"type": "SZGK",
+		"registered": "2017-07-31 21:14:53",
+		"ownbrand": "0",
+		"accident": "0"
+	},
+	{
+		"id": "786",
+		"client_id": "62036",
+		"type": "TGK",
+		"registered": "2016-07-01 09:23:34",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "787",
+		"client_id": "62036",
+		"type": "SZGK",
+		"registered": "2017-03-02 15:09:08",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "788",
+		"client_id": "62071",
+		"type": "SZGK",
+		"registered": "2016-06-23 21:10:50",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "789",
+		"client_id": "62078",
+		"type": "SZGK",
+		"registered": "2016-06-10 15:01:55",
+		"ownbrand": "0",
+		"accident": "0"
+	},
+	{
+		"id": "790",
+		"client_id": "62141",
+		"type": "TGK",
+		"registered": "2016-06-29 07:44:58",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "791",
+		"client_id": "62141",
+		"type": "SZGK",
+		"registered": "2017-06-28 12:58:24",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "792",
+		"client_id": "62148",
+		"type": "SZGK",
+		"registered": "2016-07-13 16:28:25",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "793",
+		"client_id": "62169",
+		"type": "TGK",
+		"registered": "2016-06-26 13:48:35",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "794",
+		"client_id": "62169",
+		"type": "SZGK",
+		"registered": "2017-05-07 12:37:17",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "795",
+		"client_id": "62176",
+		"type": "TGK",
+		"registered": "2016-07-21 10:51:59",
+		"ownbrand": "0",
+		"accident": "0"
+	},
+	{
+		"id": "796",
+		"client_id": "62183",
+		"type": "TGK",
+		"registered": "2016-10-25 09:13:22",
+		"ownbrand": "0",
+		"accident": "0"
+	},
+	{
+		"id": "797",
+		"client_id": "62197",
+		"type": "SZGK",
+		"registered": "2016-06-28 08:14:24",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "798",
+		"client_id": "62204",
+		"type": "SZGK",
+		"registered": "2016-08-04 10:13:32",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "799",
+		"client_id": "62211",
+		"type": "TGK",
+		"registered": "2016-07-21 18:13:48",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "800",
+		"client_id": "62211",
+		"type": "SZGK",
+		"registered": "2017-06-13 18:50:30",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "801",
+		"client_id": "62218",
+		"type": "TGK",
+		"registered": "2016-07-12 05:27:25",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "802",
+		"client_id": "62218",
+		"type": "SZGK",
+		"registered": "2016-12-28 09:18:12",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "803",
+		"client_id": "62225",
+		"type": "SZGK",
+		"registered": "2016-07-14 13:49:11",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "804",
+		"client_id": "62253",
+		"type": "SZGK",
+		"registered": "2016-07-27 09:15:56",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "805",
+		"client_id": "62260",
+		"type": "SZGK",
+		"registered": "2016-07-19 08:51:28",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "806",
+		"client_id": "62281",
+		"type": "TGK",
+		"registered": "2016-07-07 10:26:09",
+		"ownbrand": "1",
+		"accident": "2"
+	},
+	{
+		"id": "807",
+		"client_id": "62281",
+		"type": "SZGK",
+		"registered": "2017-07-25 13:15:43",
+		"ownbrand": "1",
+		"accident": "2"
+	},
+	{
+		"id": "808",
+		"client_id": "62288",
+		"type": "TGK",
+		"registered": "2016-08-11 14:32:06",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "809",
+		"client_id": "62288",
+		"type": "SZGK",
+		"registered": "2017-08-28 11:45:44",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "810",
+		"client_id": "62295",
+		"type": "SZGK",
+		"registered": "2016-07-25 22:29:09",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "811",
+		"client_id": "62323",
+		"type": "TGK",
+		"registered": "2016-07-09 19:40:45",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "812",
+		"client_id": "62323",
+		"type": "SZGK",
+		"registered": "2017-06-28 10:30:23",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "813",
+		"client_id": "62337",
+		"type": "SZGK",
+		"registered": "2016-07-22 18:35:58",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "814",
+		"client_id": "62344",
+		"type": "TGK",
+		"registered": "2016-07-08 10:08:09",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "815",
+		"client_id": "62344",
+		"type": "SZGK",
+		"registered": "2017-07-28 15:05:30",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "816",
+		"client_id": "62351",
+		"type": "SZGK",
+		"registered": "2016-06-12 15:20:30",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "817",
+		"client_id": "62372",
+		"type": "SZGK",
+		"registered": "2016-08-17 01:05:23",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "818",
+		"client_id": "62379",
+		"type": "TGK",
+		"registered": "2016-07-28 21:41:23",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "819",
+		"client_id": "62379",
+		"type": "SZGK",
+		"registered": "2017-08-11 12:20:51",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "820",
+		"client_id": "62393",
+		"type": "TGK",
+		"registered": "2016-08-10 10:34:21",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "821",
+		"client_id": "62393",
+		"type": "SZGK",
+		"registered": "2017-06-22 11:44:39",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "822",
+		"client_id": "62400",
+		"type": "TGK",
+		"registered": "2016-08-11 09:55:33",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "823",
+		"client_id": "62400",
+		"type": "SZGK",
+		"registered": "2017-07-12 17:41:22",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "824",
+		"client_id": "62414",
+		"type": "TGK",
+		"registered": "2016-07-21 15:07:31",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "825",
+		"client_id": "62421",
+		"type": "TGK",
+		"registered": "2016-07-28 10:39:24",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "826",
+		"client_id": "62421",
+		"type": "SZGK",
+		"registered": "2017-07-24 14:08:29",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "827",
+		"client_id": "62428",
+		"type": "TGK",
+		"registered": "2016-07-19 07:44:29",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "828",
+		"client_id": "62428",
+		"type": "SZGK",
+		"registered": "2017-07-31 11:30:48",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "829",
+		"client_id": "62435",
+		"type": "TGK",
+		"registered": "2016-08-11 13:04:37",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "830",
+		"client_id": "62442",
+		"type": "SZGK",
+		"registered": "2016-07-14 11:07:38",
+		"ownbrand": "0",
+		"accident": "1"
+	},
+	{
+		"id": "831",
+		"client_id": "62449",
+		"type": "TGK",
+		"registered": "2016-08-16 13:04:02",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "832",
+		"client_id": "62470",
+		"type": "SZGK",
+		"registered": "2016-08-07 14:58:52",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "833",
+		"client_id": "62498",
+		"type": "TGK",
+		"registered": "2016-06-08 18:06:11",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "834",
+		"client_id": "62498",
+		"type": "SZGK",
+		"registered": "2017-07-31 14:20:43",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "835",
+		"client_id": "62505",
+		"type": "TGK",
+		"registered": "2016-07-25 11:39:44",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "836",
+		"client_id": "62505",
+		"type": "TGK",
+		"registered": "2017-08-14 11:15:45",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "837",
+		"client_id": "62512",
+		"type": "SZGK",
+		"registered": "2016-07-26 10:20:20",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "838",
+		"client_id": "62533",
+		"type": "TGK",
+		"registered": "2016-07-05 17:52:07",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "839",
+		"client_id": "62533",
+		"type": "SZGK",
+		"registered": "2017-07-03 14:22:25",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "840",
+		"client_id": "62540",
+		"type": "TGK",
+		"registered": "2016-08-16 10:29:08",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "841",
+		"client_id": "62561",
+		"type": "TGK",
+		"registered": "2016-08-03 13:18:24",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "842",
+		"client_id": "62561",
+		"type": "SZGK",
+		"registered": "2017-07-05 15:35:09",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "843",
+		"client_id": "62582",
+		"type": "TGK",
+		"registered": "2016-07-20 21:47:30",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "844",
+		"client_id": "62582",
+		"type": "SZGK",
+		"registered": "2017-07-26 09:39:31",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "845",
+		"client_id": "62589",
+		"type": "TGK",
+		"registered": "2016-07-19 10:03:45",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "846",
+		"client_id": "62589",
+		"type": "SZGK",
+		"registered": "2017-04-28 14:15:22",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "847",
+		"client_id": "62596",
+		"type": "TGK",
+		"registered": "2016-07-26 15:09:49",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "848",
+		"client_id": "62596",
+		"type": "SZGK",
+		"registered": "2017-08-14 16:00:20",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "849",
+		"client_id": "62617",
+		"type": "TGK",
+		"registered": "2016-07-29 08:31:21",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "850",
+		"client_id": "62617",
+		"type": "SZGK",
+		"registered": "2017-08-07 08:59:11",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "851",
+		"client_id": "62680",
+		"type": "TGK",
+		"registered": "2016-06-23 11:38:49",
+		"ownbrand": "0",
+		"accident": "0"
+	},
+	{
+		"id": "852",
+		"client_id": "62680",
+		"type": "SZGK",
+		"registered": "2017-07-27 09:09:53",
+		"ownbrand": "0",
+		"accident": "0"
+	},
+	{
+		"id": "853",
+		"client_id": "62687",
+		"type": "TGK",
+		"registered": "2016-07-20 20:47:01",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "854",
+		"client_id": "62687",
+		"type": "SZGK",
+		"registered": "2017-07-05 11:42:43",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "855",
+		"client_id": "62694",
+		"type": "TGK",
+		"registered": "2016-08-12 13:17:06",
+		"ownbrand": "1",
+		"accident": "1"
+	},
+	{
+		"id": "856",
+		"client_id": "62694",
+		"type": "SZGK",
+		"registered": "2017-08-11 17:05:36",
+		"ownbrand": "1",
+		"accident": "1"
+	},
+	{
+		"id": "857",
+		"client_id": "62722",
+		"type": "SZGK",
+		"registered": "2016-08-15 15:57:24",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "858",
+		"client_id": "62736",
+		"type": "TGK",
+		"registered": "2016-07-20 19:28:15",
+		"ownbrand": "0",
+		"accident": "0"
+	},
+	{
+		"id": "859",
+		"client_id": "62736",
+		"type": "SZGK",
+		"registered": "2017-06-28 09:35:30",
+		"ownbrand": "0",
+		"accident": "0"
+	},
+	{
+		"id": "860",
+		"client_id": "62750",
+		"type": "TGK",
+		"registered": "2016-07-15 09:47:01",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "861",
+		"client_id": "62750",
+		"type": "SPORT",
+		"registered": "2016-07-15 10:11:42",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "862",
+		"client_id": "62750",
+		"type": "SPORT",
+		"registered": "2017-07-21 10:25:29",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "863",
+		"client_id": "62750",
+		"type": "SZGK",
+		"registered": "2017-07-31 11:50:29",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "864",
+		"client_id": "62757",
+		"type": "TGK",
+		"registered": "2016-08-09 20:56:59",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "865",
+		"client_id": "62757",
+		"type": "SZGK",
+		"registered": "2017-07-15 09:04:44",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "866",
+		"client_id": "62771",
+		"type": "TGK",
+		"registered": "2016-08-05 13:55:37",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "867",
+		"client_id": "62771",
+		"type": "SZGK",
+		"registered": "2017-08-03 16:25:07",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "868",
+		"client_id": "62813",
+		"type": "TGK",
+		"registered": "2016-07-13 14:42:00",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "869",
+		"client_id": "62813",
+		"type": "SZGK",
+		"registered": "2017-07-13 15:30:57",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "870",
+		"client_id": "62827",
+		"type": "SZGK",
+		"registered": "2016-08-12 14:59:34",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "871",
+		"client_id": "62855",
+		"type": "TGK",
+		"registered": "2016-07-08 09:18:13",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "872",
+		"client_id": "62855",
+		"type": "SZGK",
+		"registered": "2017-05-12 09:53:55",
+		"ownbrand": "0",
+		"accident": "0"
+	},
+	{
+		"id": "873",
+		"client_id": "62897",
+		"type": "TGK",
+		"registered": "2016-08-04 14:05:46",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "874",
+		"client_id": "62897",
+		"type": "SZGK",
+		"registered": "2017-06-09 11:39:46",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "875",
+		"client_id": "62974",
+		"type": "SZGK",
+		"registered": "2016-07-21 10:14:36",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "876",
+		"client_id": "62981",
+		"type": "SZGK",
+		"registered": "2016-08-04 11:54:35",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "877",
+		"client_id": "62988",
+		"type": "TGK",
+		"registered": "2016-07-08 15:09:15",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "878",
+		"client_id": "62988",
+		"type": "SZGK",
+		"registered": "2017-07-28 11:43:56",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "879",
+		"client_id": "62995",
+		"type": "SZGK",
+		"registered": "2016-06-30 15:43:50",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "880",
+		"client_id": "63002",
+		"type": "SZGK",
+		"registered": "2016-06-29 15:03:14",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "881",
+		"client_id": "63009",
+		"type": "TGK",
+		"registered": "2016-07-05 11:25:10",
+		"ownbrand": "1",
+		"accident": "0"
+	},
+	{
+		"id": "882",
+		"client_id": "63009",
+		"type": "SZGK",
+		"registered": "2017-07-06 14:28:56",
+		"ownbrand": "1",
+		"accident": "0"
+	}
+]

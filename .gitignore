@@ -1,0 +1,28 @@
+# Environment and local secrets
+.env
+.env.*.local
+
+# Editors and operating systems
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Go binaries and build output
+/api
+/bin/
+/build/
+/dist/
+*.exe
+*.test
+
+# Temporary files and logs
+/tmp/
+*.tmp
+*.log
+
+# Test and coverage output
+/coverage/
+coverage.out
+coverage.*.out

@@ -1,0 +1,6 @@
+@port = 42069
+@baseUrl = http://localhost:{{port}}
+
+GET {{baseUrl}}/api/clients/56450/cars
+Accept: application/json
+

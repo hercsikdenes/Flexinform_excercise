@@ -1,0 +1,5 @@
+@baseUrl = http://localhost:42069
+
+GET {{baseUrl}}/api/clients/56450/cars/1/services
+Accept: application/json
+

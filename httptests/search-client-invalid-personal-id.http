@@ -1,0 +1,3 @@
+GET {{baseUrl}}/api/clients/search?personal_id=bad-id
+Accept: application/json
+

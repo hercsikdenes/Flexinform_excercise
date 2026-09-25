@@ -1,0 +1,3 @@
+GET {{baseUrl}}/api/clients/search?name=Luke&personal_id=584977564
+Accept: application/json
+

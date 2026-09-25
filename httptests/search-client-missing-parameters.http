@@ -1,0 +1,3 @@
+GET {{baseUrl}}/api/clients/search
+Accept: application/json
+
